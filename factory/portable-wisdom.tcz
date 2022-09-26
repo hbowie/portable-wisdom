@@ -1,0 +1,75 @@
+module	action	modifier	object	value
+
+<!-- Generate Web pages for Lists  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/lists/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Title
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/lists-index.html
+template	generate
+template	open			#PATH#templates/list-page.html
+template	generate
+
+<!-- Generate Web pages for Models  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/models/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Title
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/models-index.html
+template	generate
+template	open			#PATH#templates/model-page.html
+template	generate
+
+<!-- Generate Web pages for quotations  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/quotes/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Author
+sort	add	ascending	Work-Title
+sort	add	ascending	Title
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/quote-page.html
+template	generate
+template	open			#PATH#templates/author-info-include.html
+template	generate
+template	open			#PATH#templates/author-page.html
+template	generate
+template	open			#PATH#templates/authors-index.html
+template	generate
+template	open			#PATH#templates/quote-random.html
+template	generate
+template	open			#PATH#templates/search-quotes.js
+template	generate
+
+<!-- Generate basic pages  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/pages/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/basic-page.html
+template	generate

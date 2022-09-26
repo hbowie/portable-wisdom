@@ -1,0 +1,53 @@
+<?output "../../web/quotes/random.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Random Quote</title>
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+<?include "../includes/nav-menu.html" ?>
+
+	<main>
+
+		<h1> &nbsp; </h1>
+
+	</main>
+
+<script>
+var qfilename = new Array();
+var ix = 0;
+<?nextrec?>
+qfilename[ix] = "=$title&f$=.html";
+ix++;
+<?loop?>
+var max = ix;
+
+var now = new Date();
+var seed = now.getTime() % 0xffffffff;
+
+randomQuote()
+
+function rand(n) {
+  seed = (0x015a4e35 * seed) % 0x7fffffff;
+  return (seed >> 16) % n;
+}
+
+function randomQuote() {
+  rq = rand(max);
+  if (rq < 0) {
+    rq = 0;
+  }
+  if (rq >= max) {
+    rq = max - 1;
+  }
+  var page = qfilename[rq];
+	window.location.replace(page);
+}
+</script>
+</body>
+</html>

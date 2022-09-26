@@ -1,0 +1,86 @@
+<?nextrec?>
+<?output "../../web/quotes/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>=$title$= | Portable Wisdom</title>
+	<meta name="description" content='A Quotation from =$author$= concerning "=$title$="' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>=$title$=</h1>
+
+		<p>topics: =$tags$=</p>
+
+		<blockquote>
+			=$body&o$=
+		</blockquote>
+
+		<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
+
+<?if "=$worktitle$=" ?>
+		<p>From
+<?if =$worktype$= ?>
+			the =$worktype&l$=
+<?endif?>
+			<cite>
+<?if "=$worklink$=" ?>
+			<a href="=$worklink$=">
+<?endif?>
+			=$worktitle$=
+<?if "=$worklink$=" ?>
+			</a>
+<?endif?>
+			</cite>
+		</p>
+<?endif?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>

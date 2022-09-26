@@ -1,0 +1,71 @@
+<?nextrec?>
+<?output "../../web/models/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>The Wisdom List titled =$title$= | Portable Wisdom</title>
+	<meta name="description" content='A Wisdom List titled "=$title$="' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>=$title$=</h1>
+	
+<?if "=$imagename$=" ?>
+		<p>
+			<img class="img-fluid rounded" src="../images/=$imagename&f$=">
+		</p>
+
+<?copyfile "../../content/models/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
+<?endif?>
+
+		=$body&o$=
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>

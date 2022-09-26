@@ -1,0 +1,108 @@
+<?output "../../web/authors/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>List of Cited Authors | Portable Wisdom</title>
+	<meta name="description" content="A List of Authors Cited on Portable Wisdom" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>All Quoted Authors</h1>
+
+		<p>You may sort the table by <button type="button" onclick="sortTable(0)">Author Name</button> (first-name first), or by Author <button type="button" onclick="sortTable(1)">Last Name</button>, or by <button type="button" onclick="sortTable(2)">Years Lived</button>. Hover over an author's name for brief info about them. Click on an author name to see collected quotations from that person. </p>
+
+		<table class="table" id="authors-table">
+			<col style="width:50%">
+			<col style="width:25%">
+			<col style="width:25%">
+			<thead>
+			<tr>
+				<th class="pr-sort-header" onclick="sortTable(0)">Author Name</th>
+				<th class="pr-sort-header" onclick="sortTable(1)">Last Name</th>
+				<th class="pr-sort-header" onclick="sortTable(2)">Years Lived</th>
+			</tr>
+			</thead>
+			<tbody>
+<?nextrec?>
+<?definegroup 1 “=$author$="?>
+<?ifendgroup 1 ?>
+			<tr>
+				<td><a href="=$holdauthor&f$=.html" data-bs-toggle="tooltip" title="=$holdinfo$=">=$holdauthor$=</a></td>
+				<td>=$holdauthor&a1$=</td>
+				<td>=$holdyears$=</td>
+			</tr>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?set holdauthor = "=$author$=" ?>
+<?set holdyears  = "" ?>
+<?set holdinfo   = "" ?>
+<?endif?>
+<?if "=$authoryears$=" ?>
+<?set holdyears = "=$authoryears$=" ?>
+<?endif?>
+<?if "=$authorinfo$=" ?>
+<?set holdinfo = "=$authorinfo$=" ?>
+<?endif?>
+<?loop?>
+			</tbody>
+		</table>
+
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+    <script src="=$relative$=js/author-sort.js"></script>
+    <script>
+    	var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+			var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  			return new bootstrap.Tooltip(tooltipTriggerEl)
+			})
+		</script>
+</body>
+</html>
+

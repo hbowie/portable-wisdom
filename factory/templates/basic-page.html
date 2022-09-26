@@ -1,0 +1,66 @@
+<?nextrec?>
+<?output "../../web/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<?if "=$title$=" eq "Index"?>
+	<title>Home | Portable Wisdom</title>
+<?else?>
+	<title>=$title$= | Portable Wisdom</title>
+<?endif?>
+	<meta name="description" content="=$title$= page for the Portable Wisdom site" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li class="nav-current">
+				<a href="index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+=$body&o$=
+
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?loop?>

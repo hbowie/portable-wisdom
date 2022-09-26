@@ -1,0 +1,73 @@
+<?output "../../web/models/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>All Wisdom Models | Portable Wisdom</title>
+	<meta name="description" content="A List of all the Wisdom Models found on Portable Wisdom" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					More
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>All Wisdom Models</h1>
+
+		<p>See below for all of the important models found on Portable Wisdom. </p>
+		
+		<ul>
+
+<?nextrec?>
+			<li>
+				<a href="=$title&f$=.html">
+					=$title$=
+				</a>
+			</li>
+<?loop?>
+		</ul>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+

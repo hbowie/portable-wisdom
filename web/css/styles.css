@@ -1,0 +1,346 @@
+/* --------------------------------------------------
+
+	Global Settings and Media Queries
+
+* -------------------------------------------------- */
+:root {
+  color-scheme: light dark;
+	--background-color: #FFFFFF;
+  --text-color: #000000;
+  --link-color: #0000F0;
+	--subtle-link-color: #0000FF;
+  --highlight-color: gainsboro;
+	--nav-current-background: #d8d8d8;
+  --nav-current-color: #000000;
+	--nav-another-color: #8e6b00
+	--nav-bottom-flex-basis: 7em;
+}
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+	--background-color: #000000;
+  --text-color: #F0F0F0;
+  --link-color: #93d5ff;
+  --subtle-link-color: #b6e2ff;
+  --highlight-color: DimGray;
+	--nav-current-background: #FFFFFF;
+  --nav-current-color: #000000;
+  --nav-another-color: #7194B0;
+  }
+}
+
+color.check { color: #7194B0; }
+
+@media screen and (min-width: 0px) and (max-width: 500px) {
+	:root {
+		--nav-bottom-flex-basis: 6em;
+	}
+  #header-right { display: none; }  /* hide it on small screens */
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+/* --------------------------------------------------
+
+	Body and Paragraphs
+	
+ * -------------------------------------------------- */
+
+body {
+	padding: 1rem 0.5rem;
+	font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.4rem;
+	line-height: 1.5;
+	max-width: 52rem;
+	margin: 0 auto;
+	background-color: var(--background-color);
+	color: var(--text-color); 
+}
+
+p {
+	margin-block-start: 0.5em;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+/* --------------------------------------------------
+
+	Links
+
+* -------------------------------------------------- */
+
+a {
+  color: var(--link-color);
+}
+
+a.subtle-link { 
+	color: var(--subtle-link-color); 
+	text-decoration: none;
+}
+
+a.invisi-link { 
+	color: inherit; 
+	text-decoration: none;
+}
+
+.search-results {
+    background-color: var(--highlight-color);
+}
+
+/* --------------------------------------------------
+
+Page Header (Masthead)
+
+* -------------------------------------------------- */
+
+header {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 0;
+	padding-bottom: 1rem;
+}
+
+#site-title {
+	text-align: center;
+	width: 100%;
+	font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+	font-size: 3rem;
+	line-height: 140%;
+	margin-block-end: 12px;
+}
+
+/* --------------------------------------------------
+
+	Navigation Bar 
+	
+ * -------------------------------------------------- */
+ 
+nav#main-nav {
+	font-family: 'equity_caps_bregular', 'Brush Script MT';
+ 	padding-top: 0;
+ 	border-top: solid 1px;
+ 	padding-bottom: 0;
+ 	border-bottom: solid 1px;
+}
+ 
+nav ul {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: auto;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	color: var(--text-color);
+}
+
+nav a {
+	text-decoration: none;
+	color: var(--text-color);
+}
+
+.nav-current {
+	color: var(--nav-current-color);
+	background-color: var(--nav-current-background);
+} 
+
+.nav-current a {
+	color: var(--nav-current-color);
+}
+ 
+/*
+nav#main-nav {
+	font-family: 'equity_caps_bregular', 'Brush Script MT';
+	text-transform: uppercase; 
+ 	display: flex;
+ 	justify-content: space-around;
+ 	flex-direction: row;
+ 	padding-top: 2px;
+ 	border-top: solid 1px;
+ 	padding-bottom: 2 px;
+ 	border-bottom: solid 1px;
+}
+
+nav#main-nav ul {
+  list-style-type: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+nav@main-nav li {
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 5em;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	color: var(--nav-another-color);
+}
+
+nav a {
+	flex-grow: 0;
+	flex-shrink: 1;
+	flex-basis: 5em;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	color: var(--nav-another-color);
+}
+ 
+nav#nav-top {
+	font-family: concourse_c6regular, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+}
+ 
+nav#nav-bottom {
+	flex-wrap: wrap;
+	margin-top: 0.5rem;
+	font-family: concourse_c3regular, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.1rem;
+	text-transform: uppercase;
+}
+ 
+
+
+nav#nav-bottom a {
+	flex-basis: var(--nav-bottom-flex-basis);
+}
+
+nav a.current-page {
+	background-color: var(--nav-current-background);
+	color: var(--nav-current-color);
+	border-radius: 10px;
+}
+
+nav a.another-page:hover {
+	background-color: var(--nav-current-background);
+	border-radius: 10px;
+} */
+
+
+
+/* --------------------------------------------------
+
+	Links
+
+* -------------------------------------------------- */
+
+a {
+  color: var(--link-color);
+}
+
+a.subtle-link { 
+	color: var(--subtle-link-color); 
+	text-decoration: none;
+}
+
+a.invisi-link { 
+	color: inherit; 
+	text-decoration: none;
+}
+
+.search-results {
+    background-color: var(--highlight-color);
+}
+
+/* --------------------------------------------------
+
+	Headings
+	
+ * -------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'equity-caps', Georgia, 'Times New Roman', Times, serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+h3 {
+	margin-block-end: 0;
+}
+
+h4 {
+	margin-block-end: 1rem;
+}
+
+main {
+	max-width: 50rem;
+}
+
+footer {
+	font-size: 1.1rem;
+	text-align: center;
+}
+
+#mac-app-download {
+
+}
+
+/* --------------------------------------------------
+
+Page Header (Masthead)
+
+* -------------------------------------------------- */
+
+
+
+#header-left {
+	display: flex;
+	flex-direction: column;
+}
+
+#header-logo-and-name {
+	display: flex;
+	flex-direction: row;
+}
+
+#header-right {
+	margin-left: auto;
+}
+
+.header-logo-image {
+	max-width: 64px;
+	margin-right: 16px;
+}
+
+#header-title { 
+	font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 3rem;
+}
+
+#header-slogan {
+	font-family: 'concourse_t4italic', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 1.5rem;
+	margin-bottom: 1rem;
+}
+
+
+
+p.news-date {
+	font-style: italic;
+}
+
+blockquote {
+	font-style: italic;
+}
+
