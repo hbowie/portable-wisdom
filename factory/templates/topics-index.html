@@ -1,0 +1,75 @@
+<?output "../../web/topics/index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>List of All Wisdom Topics</title>
+	<meta name="description" content='List of all Wisdom Topics' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../search.html">
+					Search
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>All Wisdom Topics</h1>
+		
+		<ul class="tags-cloud">
+<?nextrec?>
+<?definegroup 1 “=$tag-file-name$=" ?>
+<?ifnewgroup 1 ?>
+<?if "=$tag$="?>
+			<li>
+				<a href="=$tagfilename$=">
+					=$tag$=
+				</a>
+			</li>
+<?endif?>
+<?loop?>
+		</ul>
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>

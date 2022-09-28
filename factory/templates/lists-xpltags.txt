@@ -1,0 +1,5 @@
+<?output "../xpltags/lists.txt"?>
+Tag	Tag File Name	Seq	Folder	Title
+<?nextrec?>
+=$tag$=	=$tag&f$=.html	2	lists	=$title$=
+<?loop?>

@@ -1,0 +1,91 @@
+<?nextrec?>
+<?definegroup 1 “=$tag-file-name$=" ?>
+<?definegroup 2 "=$seq$=" ?>
+<?ifendgroup 2 ?>
+		</ul>
+<?endif?>
+<?ifendgroup 1 ?>
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>
+<?endif?>
+<?ifnewgroup 1 ?>
+<?output "../../web/topics/=$tag-file-name$="?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Topic: =$tag$==</title>
+	<meta name="description" content='Wisdom on the subject of =$tag$=' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="../index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="../lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="../models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="../authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="../topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="../search.html">
+					Search
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>Wisdom on the Topic of =$tag$=</h1>
+		
+<?endif?>
+<?ifnewgroup 2 ?>
+<?if =$seq$= eq 1 ?>
+		<h2>Models</h2>
+<?endif?>
+<?if =$seq$= eq 2 ?>
+		<h2>Lists</h2>
+<?endif?>
+<?if =$seq$= eq 3 ?>
+		<h2>Quotations</h2>
+<?endif?>
+
+		<ul>
+<?endif?>
+			<li>
+				<a href="../=$folder$=/=$title&f$=.html">
+					=$title$=
+				</a>
+			</li>
+<?loop?>

@@ -16,6 +16,8 @@ template	open			#PATH#templates/lists-index.html
 template	generate
 template	open			#PATH#templates/list-page.html
 template	generate
+template	open			#PATH#templates/lists-search.js
+template	generate
 
 <!-- Generate Web pages for Models  -->
 
@@ -32,6 +34,8 @@ template	webroot			#PATH#../web/
 template	open			#PATH#templates/models-index.html
 template	generate
 template	open			#PATH#templates/model-page.html
+template	generate
+template	open			#PATH#templates/models-search.js
 template	generate
 
 <!-- Generate Web pages for quotations  -->
@@ -58,7 +62,72 @@ template	open			#PATH#templates/authors-index.html
 template	generate
 template	open			#PATH#templates/quote-random.html
 template	generate
-template	open			#PATH#templates/search-quotes.js
+template	open			#PATH#templates/quotes-search.js
+template	generate
+
+<!-- Create XplTags extract file for quotes -->
+
+input	set		xpltags	true
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/quotes/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/quotes-xpltags.txt
+template	generate
+
+<!-- Create XplTags extract file for lists -->
+
+input	set		xpltags	true
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/lists/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/lists-xpltags.txt
+template	generate
+
+<!-- Create XplTags extract file for models -->
+
+input	set		xpltags	true
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/models/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/models-xpltags.txt
+template	generate
+
+<!-- Generate Topic Pages from Tags Explosions -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	file		#PATH#xpltags/models.txt
+input	open	file	merge	#PATH#xpltags/lists.txt
+input	open	file	merge	#PATH#xpltags/quotes.txt
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Tag File Name
+sort	add	ascending	Seq
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/topic-page.html
+template	generate
+template	open			#PATH#templates/topics-index.html
 template	generate
 
 <!-- Generate basic pages  -->
@@ -72,4 +141,6 @@ sort	clear
 sort	set		params
 template	webroot			#PATH#../web/
 template	open			#PATH#templates/basic-page.html
+template	generate
+template	open			#PATH#templates/search-page.html
 template	generate

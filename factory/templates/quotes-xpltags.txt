@@ -1,0 +1,5 @@
+<?output "../xpltags/quotes.txt"?>
+Tag	Tag File Name	Seq	Folder	Title
+<?nextrec?>
+=$tag$=	=$tag&f$=.html	3	quotes	=$title$=
+<?loop?>

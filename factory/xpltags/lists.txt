@@ -1,0 +1,3 @@
+Tag	Tag File Name	Seq	Folder	Title
+	.html	2	lists	Four Sentences that Lead to Wisdom
+ethics	ethics.html	2	lists	The Rotarian Four-Way Test

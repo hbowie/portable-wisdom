@@ -1,0 +1,78 @@
+<?output "../../web/search.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Search | Portable Wisdom</title>
+	<meta name="description" content="Search page for the Portable Wisdom site" />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="index.html">
+					Home
+				</a>
+			</li>
+			<li>
+				<a href="lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li>
+				<a href="models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="search.html">
+					Search
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+	
+	<h1>Search the Portable Wisdom Site</h1>
+	
+	<p>Use the form below to search the site for a term of interest.</p>
+
+	<form action="https://duckduckgo.com/" method="get" id="form-search">
+		<label for="input-search">Enter your search term:</label>
+		<input type="text" name="q" id="input-search">
+		<input type="hidden" name="sites" value="portablewisdom.org">
+		<button type="submit" id="submit-search">Search</button>
+	</form>
+
+	<div id="search-results">
+	</div>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+	<script src="js/search-models.js"></script>
+	<script src="js/search-lists.js"></script>
+	<script src="js/search-quotes.js"></script>
+	<script src="js/search.js"></script>
+
+</body>
+</html>
+<?nextrec?>
+<?loop?>

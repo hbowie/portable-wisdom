@@ -5,6 +5,7 @@ let searchQuotes = [
 		title: "=$title$=",
 		date: "=$date$=",
     url: "quotes/=$title&f$=.html",
+    summary: "=$body&so\$=",
 		content: "=$body&p$= =$author$= =$authorinfo$= =$worktitle$= "
 	},
 <?loop?>
