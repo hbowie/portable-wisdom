@@ -263,6 +263,10 @@ a.invisi-link {
     background-color: var(--highlight-color);
 }
 
+.perma-link {
+	text-align: right;
+}
+
 /* --------------------------------------------------
 
 	Headings
@@ -275,7 +279,23 @@ h1, h2, h3, h4, h5, h6 {
 	font-style: normal;
 }
 
+h1 {
+	font-size: 2rem;
+	line-height: 140%;
+	margin-block-start: 2rem;
+	margin-block-end: 12px;
+}
+
+h2 {
+	font-size: 1.8rem;
+	line-height: 140%;
+	margin-block-start: 1rem;
+	margin-block-end: 0.6rem;
+}
+
 h3 {
+	font-size: 1.6rem;
+	line-height: 140%;
 	margin-block-end: 0;
 }
 
@@ -346,7 +366,46 @@ blockquote {
 
 /* --------------------------------------------------
 
-	Tags Cloud
+	Tables
+
+* -------------------------------------------------- */
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  font-family: 'concourse-text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.2rem; 
+  line-height: 1.428571429;
+  color: var(--text-color);
+}
+
+caption {
+	border: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-top: 0.4em;
+	margin-bottom: 0.2em;
+	text-align: center;
+	color: var(--text-color)
+}
+
+th {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	padding: 5px;
+}
+
+td {
+	border: 1px #AABFCE solid;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+	color: var(--text-color);
+}
+
+/* --------------------------------------------------
+
+	Tags 
 	
  * -------------------------------------------------- */
 
@@ -392,4 +451,132 @@ ul.tags-cloud a:visited {
   color: inherit;
   color: #211E1F;
 } 
+
+.tags-align {
+	text-align: left;
+}
+
+a.tag-link {
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+	background-color: #70A4B1;
+	color: #211E1F;
+	padding: 1px 12px 1px 12px;
+	margin: 10px 20px 10px 0;
+	width: auto;
+	min-width: 40px;
+	text-align: center;
+  text-decoration: none; 
+  border-bottom: 0;
+}
+
+.tag-topic {
+	display: inline-block;
+	position: relative;
+	border-radius: 10px;
+	background-color: #70A4B1;
+	color: #211E1F;
+	padding: 1px 12px 1px 12px;
+	margin: 10px 20px 10px 10px;
+	width: auto;
+	min-width: 5emx;
+	text-align: center;
+  text-decoration: none; 
+  border-bottom: 0;
+}
+
+
+/* Colors */
+
+.infrared
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #EA60B5;
+}
+.magenta
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D5007D;
+}
+.red
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #CA0018;
+}
+.amber
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #D45507;
+}
+.orange
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #FF8E01;
+}
+.green
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #019B2D;
+}
+.teal
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #00C89A;
+}
+.turqoise
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #006BD8;
+}
+.indigo
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #013388;
+}
+.beige
+{
+	color: #630;
+	font-weight: 500;
+	background-color: #F5F5DC;
+}
+.purple
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: #8B00FF;
+}
+.blue
+{
+	color: #FFF;
+	font-weight: 500;
+	background-color: blue;
+}
+.yellow
+{
+	color: #000;
+	font-weight: 500;
+	background-color: yellow;
+}
+.turquoise
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #40E0D0;
+}
+.coral
+{
+	color: #000;
+	font-weight: 500;
+	background-color: #FF7F50;
+}
 

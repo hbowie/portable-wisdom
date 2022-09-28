@@ -11,8 +11,6 @@ Tag	Tag File Name	Seq	Folder	Title
 	.html	3	quotes	Very large social units are imaginary
 	.html	3	quotes	Your company’s purpose is its north star
 Design	design.html	3	quotes	A working simple system
-Management	management.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
-Measurement	measurement.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 Murder	murder.html	3	quotes	An Irreplaceable Compact
 Project Management	project-management.html	3	quotes	Belief in Impossible Things
 Software Development.Agility	software-development.agility.html	3	quotes	Rough consensus and running code
@@ -30,7 +28,6 @@ art	art.html	3	quotes	Art is a Hammer
 art	art.html	3	quotes	Art is a lie that makes us realize truth
 art	art.html	3	quotes	Art, Science and Empire
 art	art.html	3	quotes	Cinema was about revelation
-art	art.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 art	art.html	3	quotes	Couldn’t everyone’s life become a work of art?
 art	art.html	3	quotes	Critical Thinking Followed by Action
 art	art.html	3	quotes	Deeper convictions of the heart
@@ -389,7 +386,6 @@ humanism	humanism.html	3	quotes	All must be held valuable, or none
 humanism	humanism.html	3	quotes	Apes and Humans
 humanism	humanism.html	3	quotes	The center of every man's existence is a dream
 humanism	humanism.html	3	quotes	Chimps and Humans
-humanism	humanism.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 humanism	humanism.html	3	quotes	Imagination is not a means of making money
 humanism	humanism.html	3	quotes	An Invincible Summer
 humanism	humanism.html	3	quotes	An Irreplaceable Compact
@@ -464,7 +460,6 @@ integral	integral.html	3	quotes	Technology married with the humanities
 integral	integral.html	3	quotes	We are idealists and we are realists
 liberty	liberty.html	3	quotes	Between Stimulus and Response
 liberty	liberty.html	3	quotes	The Challenge of Swing
-liberty	liberty.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 liberty	liberty.html	3	quotes	Every Third American
 liberty	liberty.html	3	quotes	The Extent of Freedom in All of its Dimensions
 liberty	liberty.html	3	quotes	Freedom of Expression in Business
@@ -508,6 +503,8 @@ love	love.html	3	quotes	tikkun olam
 love	love.html	3	quotes	To see a world in a grain of sand
 love	love.html	3	quotes	Unarmed Truth and Unconditional Love
 love	love.html	3	quotes	The World is a Wonderfully Weird Place
+management	management.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
+measurement	measurement.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 mission	mission.html	3	quotes	The axis is constructive-destructive
 mission	mission.html	3	quotes	Each man is questioned by life
 mission	mission.html	3	quotes	Ends for which We Live
@@ -538,6 +535,7 @@ parenthood	parenthood.html	3	quotes	Life is a series of daring adventures from a
 parenthood	parenthood.html	3	quotes	Quality of Children vs. Quantity
 parenthood	parenthood.html	3	quotes	That community asks for and gets chaos
 parenthood	parenthood.html	3	quotes	You can simply focus on raising a human being
+perspectives	perspectives.html	3	quotes	Cockpits with Instruments Controlled by Gremlins
 population	population.html	3	quotes	Intelligent guides of family planning
 power	power.html	3	quotes	The more they yearned for omnipotence
 practical	practical.html	3	quotes	Careful, thoughtful, small, practical efforts

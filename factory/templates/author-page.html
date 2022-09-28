@@ -62,7 +62,7 @@
 
 	<main>
 
-		<h1>=$author$=</h1>
+		<h1>Author: =$author$=</h1>
 
 <?include "../includes-gen/author-=$author&f$=.html" ?>
 
@@ -73,8 +73,8 @@
 		<hr />
 
 		<h3>=$title$=</h3>
-
-		<p>topics: =$tags$=</p>
+		
+		<p class="tags-align">=$tags&gtopics/;tag-link$=</p>
 
 		<blockquote>
 			=$body&o$=
@@ -96,9 +96,14 @@
 			</cite>
 		</p>
 <?endif?>
-
 <?if "=$date$=" ?>
-					<p>&mdash; =$date$=</p>
+		<p>&mdash; =$date$=</p>
 <?endif?>
+
+		<p class="perma-link">
+			<a href="../quotes/=$title&f$=.html">
+				Permalink for Quote
+			</a>
+		</p>
 
 <?loop?>

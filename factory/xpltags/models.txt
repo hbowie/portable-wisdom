@@ -1,2 +1,5 @@
 Tag	Tag File Name	Seq	Folder	Title
-	.html	1	models	The Four Quadrants
+integral	integral.html	1	models	The Four Quadrants
+management	management.html	1	models	The Urgent vs. Important Matrix
+perspectives	perspectives.html	1	models	The Four Quadrants
+tasks	tasks.html	1	models	The Urgent vs. Important Matrix
