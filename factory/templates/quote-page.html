@@ -61,6 +61,7 @@
 		<p>&mdash; <a href="../authors/=$author&f$=.html">=$author&,$=</a>=$date&,$=</p>
 
 <?if "=$worktitle$=" ?>
+<?if "=$worktitle$=" ne "unknown" ?>
 		<p>From
 <?if =$worktype$= ?>
 			the =$worktype&l$=
@@ -76,6 +77,13 @@
 			</cite>
 		</p>
 <?endif?>
+<?endif?>
+
+<?if "=$work-rights-slug$="?>
+		<p>=$work-rights-slug$=</p>
+<?endif?>
+
+		<p style="text-align: right; "><em>(If you're open to chance, view a <a href="random.html">random quotation</a>.)</em></p> 
 
 	</main>
 

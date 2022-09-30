@@ -1,7 +1,10 @@
 Tag	Tag File Name	Seq	Folder	Title
 ethics	ethics.html	2	lists	The Rotarian Four-Way Test
+fairness	fairness.html	2	lists	Core Design Principles for the Efficacy of Groups
 fairness	fairness.html	2	lists	The Rotarian Four-Way Test
+groups	groups.html	2	lists	Core Design Principles for the Efficacy of Groups
 interdependence	interdependence.html	2	lists	Four Sentences that Lead to Wisdom
 interdependence	interdependence.html	2	lists	The Rotarian Four-Way Test
 leadership	leadership.html	2	lists	The Four Essential Attributes of Any Organization
+organizations	organizations.html	2	lists	Core Design Principles for the Efficacy of Groups
 organizations	organizations.html	2	lists	The Four Essential Attributes of Any Organization

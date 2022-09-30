@@ -81,6 +81,7 @@
 		</blockquote>
 
 <?if "=$worktitle$=" ?>
+<?if "=$worktitle$=" ne "unknown" ?>
 		<p>From
 <?if =$worktype$= ?>
 		the =$worktype&l$=
@@ -95,6 +96,7 @@
 <?endif?>
 			</cite>
 		</p>
+<?endif?>
 <?endif?>
 <?if "=$date$=" ?>
 		<p>&mdash; =$date$=</p>
