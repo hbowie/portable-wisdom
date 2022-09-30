@@ -1,4 +1,6 @@
 Tag	Tag File Name	Seq	Folder	Title
+	.html	2	lists	7 Habits of Highly Effective People
+	.html	2	lists	The DRAMMA List of Psychological Needs
 ethics	ethics.html	2	lists	The Rotarian Four-Way Test
 fairness	fairness.html	2	lists	Core Design Principles for the Efficacy of Groups
 fairness	fairness.html	2	lists	The Rotarian Four-Way Test
@@ -6,5 +8,6 @@ groups	groups.html	2	lists	Core Design Principles for the Efficacy of Groups
 interdependence	interdependence.html	2	lists	Four Sentences that Lead to Wisdom
 interdependence	interdependence.html	2	lists	The Rotarian Four-Way Test
 leadership	leadership.html	2	lists	The Four Essential Attributes of Any Organization
+leadership	leadership.html	2	lists	Steps in Decision-Making Conversations
 organizations	organizations.html	2	lists	Core Design Principles for the Efficacy of Groups
 organizations	organizations.html	2	lists	The Four Essential Attributes of Any Organization
