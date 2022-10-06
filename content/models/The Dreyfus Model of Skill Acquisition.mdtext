@@ -1,0 +1,61 @@
+Title:  The Dreyfus Model of Skill Acquisition
+
+Tags:   mastery
+
+Index:  Dreyfus Model of Skill Acquisition; North, Dan; 
+
+Body:
+
+First proposed by Stuart and Hubert Dreyfus in 1980, this model suggests that people go through roughly five stages as they acquire new skills.
+
+I first heard of this model from [Dan North][north], who first made me aware of the [Dreyfus model][dreyfus-model] and some of its implications in the field of software development. 
+
+[dreyfus-model]: http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+[north]: https://www.infoq.com/articles/better-best-practices
+
+These can be seen as steps on the road to [mastery](https://portablewisdom.org/topics/mastery.html).
+
+Notice that, at lower levels, people learn and follow rules, while, at higher levels, people rely less on explicit rules and more on a tacit understanding of the subject area. 
+
+## 1. Novice
+
+This stage is characterized by:
+
+* rigid adherence to rules
+* no discretional judgment
+* no sense of responsibility for outcomes
+
+## 2. Advanced Beginner
+
+Learners at this stage exhibit the following characteristics:
+
+* limited awareness of situational specifics
+* treatment of all aspects of work as separate from one another, with each aspect given equal importance
+* no sense of responsibility for outcomes
+
+## 3. Competent
+
+At this stage the following characteristics are seen:
+
+* coping with crowdedness (multiple activities, multiple sources and types of information)
+* starting to see relationships of actions to longer term goals
+* conscious, deliberate planning
+* starts to feel accountability for outcomes
+
+## 4. Proficient
+
+At this stage we see the following signs of development:
+
+* holistic view of situation, rather than in terms of separate aspects
+* sees what is most important in a situation
+* uses maxims for guidance, but application of maxims may vary according to the situation
+* feels responsible for results
+
+## 5. Expert
+
+At this stage of development, learners:
+
+* are no longer reliant on rules, guidelines, maxims
+* display an intuitive grasp of a situation, based on tacit knowledge
+* have a vision of what is possible
+* accept responsibility for results

@@ -1,0 +1,93 @@
+<?output "../../web/alpha-index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<title>Index to Lists and Models</title>
+	<meta name="description" content='Index to Lists and Models' />
+<?include "../includes/head-links.html" ?>
+</head>
+<body>
+
+<?include "../includes/header.html" ?>
+
+	<nav id="main-nav">
+		<ul>
+			<li>
+				<a href="index.html">
+					Home
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="lists/index.html">
+					Lists
+				</a>
+			</li>
+			<li class="nav-current">
+				<a href="models/index.html">
+					Models
+				</a>
+			</li>
+			<li>
+				<a href="authors/index.html">
+					Quotes
+				</a>
+			</li>
+			<li>
+				<a href="topics/index.html">
+					Topics
+				</a>
+			</li>
+			<li>
+				<a href="search.html">
+					Search
+				</a>
+			</li>
+		</ul>
+	</nav>
+
+	<main>
+
+		<h1>Index to Lists and Models</h1>
+		
+<?include "../includes-gen/alpha-index-letters.html"?>
+
+<?nextrec?>
+<?definegroup 1 =$initialletter$= ?>
+<?definegroup 2 =$lowercaseterm$= ?>
+<?ifendgroup 2 ?>
+<?endif?>
+<?ifendgroup 1 ?>
+</dl>
+<?endif?>
+<?ifnewgroup 1 ?>
+<h3 id="letter-=$initialletter&l$=">&mdash; =$initialletter$= &mdash;</h3>
+<dl class="index">
+<?endif?>
+<?ifnewgroup 2 ?>
+	<dt>
+<?if "=$termlink$=" ?>
+		<a href="=$termlink$=" class="reflink" target="ref">
+<?endif?>
+			=$term$=
+<?if "=$termlink$=" ?>
+		</a>
+<?endif?>
+	</dt>
+<?endif?>
+		<dd>
+			<a href="=$page-type$=/=$page&f$=.html">
+				=$page$=
+			</a>
+		</dd>
+<?loop?>
+
+<?include "../includes/back-to-top.html" ?>
+
+	</main>
+
+<?include "../includes/footer.html" ?>
+
+</body>
+</html>

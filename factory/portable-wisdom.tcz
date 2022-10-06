@@ -18,6 +18,8 @@ template	open			#PATH#templates/list-page.html
 template	generate
 template	open			#PATH#templates/lists-search.js
 template	generate
+template	open			#PATH#templates/lists-dated.txt
+template	generate
 
 <!-- Generate Web pages for Models  -->
 
@@ -36,6 +38,8 @@ template	generate
 template	open			#PATH#templates/model-page.html
 template	generate
 template	open			#PATH#templates/models-search.js
+template	generate
+template	open			#PATH#templates/models-dated.txt
 template	generate
 
 <!-- Generate Web pages for quotations  -->
@@ -63,6 +67,26 @@ template	generate
 template	open			#PATH#templates/quote-random.html
 template	generate
 template	open			#PATH#templates/quotes-search.js
+template	generate
+template	open			#PATH#templates/quotes-dated.txt
+template	generate
+
+<!-- Generate Most Recent Content -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	file		#PATH#dated/models.txt
+input	open	file	merge	#PATH#dated/lists.txt
+input	open	file	merge	#PATH#dated/quotes.txt
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	descending	Date Added
+sort	add	ascending	Folder
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/rss.xml
 template	generate
 
 <!-- Create XplTags extract file for quotes -->
@@ -144,3 +168,34 @@ template	open			#PATH#templates/basic-page.html
 template	generate
 template	open			#PATH#templates/search-page.html
 template	generate
+
+<!-- Load Index Data for lists -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-index		#PATH#../content/lists/
+
+<!-- Merge Index Data for models -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-index	merge	#PATH#../content/models/
+
+<!-- Generate Index Page for Lists and Models
+
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Initial Letter
+sort	add	ascending	Lower Case Term
+sort	add	ascending	Page
+sort	set		params
+template	open			#PATH#templates/alpha-index-letters.html
+template	generate
+template	open			#PATH#templates/alpha-index.html
+template	generate
+
+<!--  Browse the local site -->
+
+browse	open	url		http://localhost/~hbowie/portable-wisdom/web/index.html

@@ -1,0 +1,5 @@
+<?output "../dated/lists.txt"?>
+Date Added	Folder	Title	Content
+<?nextrec?>
+=$date-added$=	Lists	=$title$=	=$body&soq$=
+<?loop?>

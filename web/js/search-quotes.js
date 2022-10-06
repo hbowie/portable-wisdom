@@ -732,42 +732,42 @@ let searchQuotes = [
 		date: "2021",
     url: "quotes/many-humans-just-dont-like-their-families.html",
     summary: "<p>There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship: many humans just don&#8217;t like their families very much. </p>",
-		content: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship many humans just don t like their families very much And this appears to be just as true of present day hunter gatherers as anybody else Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them David Graeber and David Wengrow  The Dawn of Everything: A New History of Humanity "
+		content: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship many humans just don t like their families very much And this appears to be just as true of present day hunter gatherers as anybody else Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
 	},
 	{
 		title: "Very large social units are imaginary",
 		date: "2021",
     url: "quotes/very-large-social-units-are-imaginary.html",
     summary: "<p>Very large social units are always, in a sense, imaginary. </p>",
-		content: "Very large social units are always in a sense imaginary Or to put it in a slightly different way there is always a fundamental distinction between the way one relates to friends family neighbourhood people and places that we actually know directly and the way one relates to empires nations and metropolises phenomena that exist largely or at least most of the time in our heads David Graeber and David Wengrow  The Dawn of Everything: A New History of Humanity "
+		content: "Very large social units are always in a sense imaginary Or to put it in a slightly different way there is always a fundamental distinction between the way one relates to friends family neighbourhood people and places that we actually know directly and the way one relates to empires nations and metropolises phenomena that exist largely or at least most of the time in our heads David Graeber and David Wengrow American anthropologist and British archaeologist The Dawn of Everything: A New History of Humanity "
 	},
 	{
 		title: "Between-group selection became the primary evolutionary force",
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
     summary: "<p>Our ancestors found ways to suppress disruptive competition among individuals within groups, so that between-group selection became the primary evolutionary force. </p>",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
     summary: "<p>But the chicken experiments suggest that this logic is flawed &#8211; even for farm animals where eugenics is a common practice. It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare. </p>",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
     summary: "<p>Once we become attuned to it, the entire pageant of human history, starting approximately 100,000 years ago, can be seen as evolution at high speed, made possible by the transmission of learned information across generations. </p>",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
     summary: "<p>Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil. With cancer, the group is the multicellular organism and the individuals are the cells. </p>",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
@@ -802,14 +802,14 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
     summary: "<p>Furthermore, as we have seen for genetic evolution, what&#8217;s adaptive in the evolutionary sense of the word isn&#8217;t necessarily good or right in the normative sense. </p>",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
     summary: "<p>As we are increasingly coming to realize, our species does represent a new evolutionary process — cultural evolution — that far surpasses cultural traditions in other species. </p>",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
@@ -823,14 +823,14 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
     summary: "<p>Multilevel selection theory tells us that something similar to team-level selection took place in our species for thousands of generations, resulting in adaptations for teamwork that are baked into the genetic architecture of our minds. </p>",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
     summary: "<p>With this perspective, you can begin to think of yourself as not just a product of your genes, and not just a product of your personal experience, but also as one of many members of your culture who collectively contain a vast repository of&#8230; </p>",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -1341,21 +1341,21 @@ let searchQuotes = [
 		date: "2010",
     url: "quotes/the-tautness-of-this-resonant-connection.html",
     summary: "<p>No matter what the form, all art seems to produce a similar sensation &#8211; of timelessness, of implicit order, of connectedness. </p>",
-		content: "No matter what the form all art seems to produce a similar sensation of timelessness of implicit order of connectedness It is as if the work of art had sounded some deep note and caused sympathetic vibration in a hidden string a string whose one end is secured in the human heart and from there ascends towards some unknowable summit the existence of the termination point affirmed only by the tautness of this resonant connection Herb Bowie  Reason to Rock: Rock Music as Art Form "
+		content: "No matter what the form all art seems to produce a similar sensation of timelessness of implicit order of connectedness It is as if the work of art had sounded some deep note and caused sympathetic vibration in a hidden string a string whose one end is secured in the human heart and from there ascends towards some unknowable summit the existence of the termination point affirmed only by the tautness of this resonant connection Herb Bowie American author and software developer Reason to Rock: Rock Music as Art Form "
 	},
 	{
 		title: "Capitalists who worship only at the feet of capitalism",
 		date: "",
     url: "quotes/capitalists-who-worship-only-at-the-feet-of-capitalism.html",
     summary: "<p>Democratic capitalism is a wonderful device precisely because it maximizes the ability of individuals within society to singly and collectively pursue the ends that&#8230; </p>",
-		content: "Democratic capitalism is a wonderful device precisely because it maximizes the ability of individuals within society to singly and collectively pursue the ends that <em>they< em> find to be important and meaningful the accomplishments of a capitalistic society are noble and grand to the extent that the ends pursued by its individuals aspire to these lofty goals and bereft to the extent that the intentions of its citizens are mean and unworthy nothing makes capitalism appear more hollow than capitalists who worship only at the feet of capitalism they are like workmen who have fallen in love with their tools while blind to the glories of the cathedrals these tools have built and can yet build Herb Bowie  unknown "
+		content: "Democratic capitalism is a wonderful device precisely because it maximizes the ability of individuals within society to singly and collectively pursue the ends that <em>they< em> find to be important and meaningful the accomplishments of a capitalistic society are noble and grand to the extent that the ends pursued by its individuals aspire to these lofty goals and bereft to the extent that the intentions of its citizens are mean and unworthy nothing makes capitalism appear more hollow than capitalists who worship only at the feet of capitalism they are like workmen who have fallen in love with their tools while blind to the glories of the cathedrals these tools have built and can yet build Herb Bowie American author and software developer unknown "
 	},
 	{
 		title: "Having Fewer Children and Grandchildren",
 		date: "",
     url: "quotes/having-fewer-children-and-grandchildren.html",
     summary: "<p>On the subject of climate change, I think we need to not only think of what sort of planet we will be leaving to our children and grandchildren, but start to think about leaving fewer children and grandchildren for our planet to have to sustain. </p>",
-		content: "On the subject of climate change I think we need to not only think of what sort of planet we will be leaving to our children and grandchildren but start to think about leaving fewer children and grandchildren for our planet to have to sustain We cannot stop and reverse climate change if the human population of the planet continues to climb in fact it is exceedingly improbably that we can save our planet while maintaining the same number of people we have alive today Herb Bowie  unknown "
+		content: "On the subject of climate change I think we need to not only think of what sort of planet we will be leaving to our children and grandchildren but start to think about leaving fewer children and grandchildren for our planet to have to sustain We cannot stop and reverse climate change if the human population of the planet continues to climb in fact it is exceedingly improbably that we can save our planet while maintaining the same number of people we have alive today Herb Bowie American author and software developer unknown "
 	},
 	{
 		title: "The Cult of Ignorance",
@@ -1684,7 +1684,7 @@ let searchQuotes = [
 		date: "May 8, 2017",
     url: "quotes/it-is-foolish-to-view-realism-and-idealism-as-incompatible.html",
     summary: "<p>I consider myself a realist. I have certainly seen my share of the world as it really is and not how I wish it would be. </p>",
-		content: "I consider myself a realist I have certainly seen my share of the world as it really is and not how I wish it would be What I ve learned is that it is foolish to view realism and idealism as incompatible or to consider our power and wealth as encumbered by the demands of justice morality and conscience John McCain American film director, producer, screenwriter, and actor New York Times "
+		content: "I consider myself a realist I have certainly seen my share of the world as it really is and not how I wish it would be What I ve learned is that it is foolish to view realism and idealism as incompatible or to consider our power and wealth as encumbered by the demands of justice morality and conscience John McCain  New York Times "
 	},
 	{
 		title: "Unbelievable Heroes",
@@ -2160,7 +2160,7 @@ let searchQuotes = [
 		date: "04 Nov 2019",
     url: "quotes/cinema-was-about-revelation.html",
     summary: "<p>For me, for the filmmakers I came to love and respect, for my friends who started making movies around the same time that I did, cinema was about revelation — aesthetic, emotional and spiritual revelation. </p>",
-		content: "For me for the filmmakers I came to love and respect for my friends who started making movies around the same time that I did cinema was about revelation aesthetic emotional and spiritual revelation It was about characters the complexity of people and their contradictory and sometimes paradoxical natures the way they can hurt one another and love one another and suddenly come face to face with themselves Martin Scorsese American film director, producer, screenwriter, and actor The New York Times "
+		content: "For me for the filmmakers I came to love and respect for my friends who started making movies around the same time that I did cinema was about revelation aesthetic emotional and spiritual revelation It was about characters the complexity of people and their contradictory and sometimes paradoxical natures the way they can hurt one another and love one another and suddenly come face to face with themselves Martin Scorsese American film director, producer, screenwriter, and actor Martin Scorsese: I Said Marvel Movies Aren’t Cinema. Let Me Explain. "
 	},
 	{
 		title: "The intricate riddle of life",
@@ -2804,7 +2804,7 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/governance-is-essential.html",
     summary: "<p>The simple maps of idealized markets leave out many real-world details that must be dealt with in order for the market to actually function properly. Governance is essential. </p>",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
@@ -2909,14 +2909,14 @@ let searchQuotes = [
 		date: "06 Aug 2020",
     url: "quotes/culture-can-be-either-mutualistic-or-predatory.html",
     summary: "<p>Culture can be either mutualistic or predatory &#8211; that&#8217;s our choice as a society. </p>",
-		content: "Culture can be either mutualistic or predatory that s our choice as a society We can choose to create societies that prioritize what we consider good Victor Hwang  Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
+		content: "Culture can be either mutualistic or predatory that s our choice as a society We can choose to create societies that prioritize what we consider good Victor Hwang Tech CEO and author Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
 	},
 	{
 		title: "We have the capacity to envision a better future and make it a reality",
 		date: "06 Aug 2020",
     url: "quotes/we-have-the-capacity-to-envision-a-better-future-and-make-it-a-reality.html",
     summary: "<p>Many people interpret the invisible hand concept as saying, we should just take our hands off the steering wheel like there’s nothing we should do.  I don’t agree with that. </p>",
-		content: "Many people interpret the invisible hand concept as saying we should just take our hands off the steering wheel like there s nothing we should do I don t agree with that Humans aren t designed to accept the world as is so to just say whatever is denying what makes us thrive as a species More than any other creature on Earth we have the capacity to envision a better future and make it a reality We are askers of the question What kind of world do we want And perhaps even more importantly we can ask the follow up question How do we build that Victor Hwang  Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
+		content: "Many people interpret the invisible hand concept as saying we should just take our hands off the steering wheel like there s nothing we should do I don t agree with that Humans aren t designed to accept the world as is so to just say whatever is denying what makes us thrive as a species More than any other creature on Earth we have the capacity to envision a better future and make it a reality We are askers of the question What kind of world do we want And perhaps even more importantly we can ask the follow up question How do we build that Victor Hwang Tech CEO and author Evolution, Complexity, and the Third Way of Entrepreneurship: A Capstone Conversation with Victor Hwang "
 	},
 	{
 		title: "Confusion leads to understanding",
@@ -3000,7 +3000,7 @@ let searchQuotes = [
 		date: "Nov 26, 2006",
     url: "quotes/its-the-rich-class-thats-winning.html",
     summary: "<p>There&#8217;s class warfare, all right, but it&#8217;s my class, the rich class, that&#8217;s making war, and we&#8217;re winning. </p>",
-		content: "There s class warfare all right but it s my class the rich class that s making war and we re winning Warren Buffett American film director, producer, screenwriter, and actor New York Times "
+		content: "There s class warfare all right but it s my class the rich class that s making war and we re winning Warren Buffett  New York Times "
 	},
 	{
 		title: "More than enough",

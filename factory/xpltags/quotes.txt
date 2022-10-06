@@ -13,7 +13,6 @@ Tag	Tag File Name	Seq	Folder	Title
 Design	design.html	3	quotes	A working simple system
 Murder	murder.html	3	quotes	An Irreplaceable Compact
 Project Management	project-management.html	3	quotes	Belief in Impossible Things
-Software Development.Agility	software-development.agility.html	3	quotes	Rough consensus and running code
 TecFiction	tecfiction.html	3	quotes	An Irreplaceable Compact
 USA	usa.html	3	quotes	A Coke is a Coke
 USA	usa.html	3	quotes	The Credibility of a Comedian
@@ -374,6 +373,7 @@ governance	governance.html	3	quotes	Preparing Managers to Manage
 governance	governance.html	3	quotes	The producing of good citizens
 governance	governance.html	3	quotes	A reactionary conservative party
 governance	governance.html	3	quotes	Responsible Nationalism
+governance	governance.html	3	quotes	Rough consensus and running code
 governance	governance.html	3	quotes	Socialism is their name for anything that helps the people
 governance	governance.html	3	quotes	Stakeholder Capitalism
 governance	governance.html	3	quotes	Taking a Fence Down
@@ -540,7 +540,6 @@ population	population.html	3	quotes	Intelligent guides of family planning
 power	power.html	3	quotes	The more they yearned for omnipotence
 practical	practical.html	3	quotes	Careful, thoughtful, small, practical efforts
 practical	practical.html	3	quotes	Minute Particulars
-practical	practical.html	3	quotes	Rough consensus and running code
 practical	practical.html	3	quotes	Steve Jobs Ideals
 practopian	practopian.html	3	quotes	Which side will lose by winning
 progress	progress.html	3	quotes	The Art of Progress

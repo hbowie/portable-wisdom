@@ -1,0 +1,31 @@
+<?output "../../web/rss.xml"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>Portable Wisdom</title>
+	<description>Lists, Models and Quotes of Broad Interest and Application</description>
+	<link>https://portablewisdom.org</link>
+	<language>en-us</language>
+	<managingEditor>hbowie@portablewisdom.org (Herb Bowie)</managingEditor>
+	<webMaster>hbowie@portablewisdom.org (Herb Bowie)</webMaster>
+	<lastBuildDate>=$today&EEE, dd MMM yyyy HH:mm zzz$=</lastBuildDate>
+	<pubDate>=$today&EEE, dd MMM yyyy HH:mm zzz$=</pubDate>
+	<atom:link href="https://portablewisdom.org/rss.xml" rel="self" type="application/rss+xml" />
+	<ttl>1440</ttl>
+<?set item-count = 0 ?>
+<?nextrec?>
+<?set item-count ++ ?>
+<?if =$item-count$= < 21 ?>
+	<item>
+		<title>=$title&x$=</title>
+		<link>https://portablewisdom.org/=$folder&f$=/=$title&fx$=.html</link>
+		<guid isPermaLink="true">https://portablewisdom.org/=$folder&f$=/=$title&fx$=.html</guid>
+		<pubDate>=$date-added&EEE, dd MMM yyyy HH:mm zzz$=</pubDate>
+		<description>
+			=$content&x$=
+		</description>
+	</item>
+<?endif?>
+<?loop?>
+</channel>
+</rss>

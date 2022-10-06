@@ -1,0 +1,32 @@
+Date Added	Folder	Title	Content
+2022-10-04 09:39:38 -0700	Lists	7 Habits of Highly Effective People	"<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=""https://en.wikipedia.org/wiki/Stephen_Covey"">Stephen R. Covey</a>'s <a href=""https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"">book of the same name</a>. </p>
+
+<p>1 </p>"
+2022-10-04 15:52:52 -0700	Lists	Core Design Principles for the Efficacy of Groups	<p>I originally encountered these principles in David Sloan Wilson's book, <em>This View of Life.</em> If you&#8217;d like another description of these principles that is freely available on the web, you can refer to this&#8230; </p>
+2022-10-04 16:32:17 -0700	Lists	The DRAMMA List of Psychological Needs	<p>DRAMMA is a theory outlining six pschological needs that, when satisfied, lead to optimal functioning and higher levels of well-being. DRAMMA is notable for integrating leisure needs with other psychological needs more typically associated with work. </p>
+2022-10-04 16:32:02 -0700	Lists	DRIVE: Motivational Factors for Complex Work	<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>
+2022-10-04 09:41:09 -0700	Lists	The Four Essential Attributes of Any Organization	"<p>In order to survive and thrive, any organization must possess the following four characteristics. </p>
+
+<ul>
+<li><strong>Identity</strong> - The organization must know who they are. </li>
+<li><strong>Integrity</strong> - The organization must act in accordance with its identity. </li>
+</ul>
+"
+2022-10-04 09:41:30 -0700	Lists	Four Sentences that Lead to Wisdom	"<p>These sentences come from author <a href=""https://www.louisepenny.com"">Louise Penny</a>, and are passed on by her detective protagonist, Armand Gamache, in several of her books. </p>
+
+<ol>
+<li>I am sorry. </li>
+<li>I was wrong. </li>
+<li>I don&#8217;t know. </li>
+<li>I need help. </li>
+</ol>
+"
+2022-10-04 09:41:44 -0700	Lists	The Rotarian Four-Way Test	"<p>The Four-Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships. </p>
+
+<p>The test is widely promoted as one of the guiding principles of Rotary International. </p>"
+2022-10-04 16:31:47 -0700	Lists	Self-Determination Theory	"<p>Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. </p>
+
+<h2 id=""1-autonomy"">1. Autonomy</h2>
+
+<p>People need to feel essential control of their own behaviors and goals; </p>"
+2022-10-04 17:09:00 -0700	Lists	Steps in Decision-Making Conversations	<p>These come from Craig Weber, and are described in his book Conversational Capacity (although I originally picked them up as part of a consulting engagement with Craig). </p>

@@ -21,6 +21,13 @@ let searchLists = [
 		content: "DRAMMA is a theory outlining six pschological needs that when satisfied lead to optimal functioning and higher levels of well being DRAMMA is notable for integrating leisure needs with other psychological needs more typically associated with work See Need Satisfaction and Optimal Functioning at Leisure and Work A Longitudinal Validation Study of the DRAMMA Model https link springer com article 10 1007 s10902 020 00247 3 Also see this story in The Atlantic https www theatlantic com culture archive 2022 04 covid workcation remote work life balance 629605 DRAMMA is an acronym standing for the following elements 1 Detachment Detachment from work refers to mental disengagement e g switching off from work related thoughts and tasks during employees free time 2 Relaxation Relaxation refers to psychobiological unwinding in combination with low activation and high positive affect 3 Autonomy Autonomy refers to a sense of being in control over one s life actions and choices and is an essential component of leisure 4 Mastery Mastery refers to experiencing proficiency and skillfulness in the tasks in which the person engages 5 Meaning Meaning refers to experiencing a sense of purpose and significance in one s life and activities 6 Affiliation Affiliation refers to feeling closely related and emotionally connected to people"
 	},
 	{
+		title: "DRIVE: Motivational Factors for Complex Work",
+		date: "",
+    url: "lists/drive-motivational-factors-for-complex-work.html",
+    summary: "<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>",
+		content: "In is book Drive Daniel H Pink danpink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple straightforward tasks Many people have heard of these three factors via this lively video rsa created by RSA Animate BTW I would point out that these factors are strongly correlated with some of the Core Design Principles for the Efficacy of Groups with Self Determination Theory and with the the DRAMMA List of Psychological Needs danpink https www danpink com drive https www danpink com books drive rsa https youtu be u6XAPnuFjJc 1 Autonomy Autonomy can be thought of as the desire to direct our own lives including the work that we perform as part of a group 2 Mastery Mastery can be thought of as the urge to get better and better at something that matters 3 Purpose Purpose can be thought of as the yearning to do what we do in the service of something larger than ourselves"
+	},
+	{
 		title: "The Four Essential Attributes of Any Organization",
 		date: "",
     url: "lists/the-four-essential-attributes-of-any-organization.html",
@@ -40,6 +47,13 @@ let searchLists = [
     url: "lists/the-rotarian-four-way-test.html",
     summary: "<p>The Four-Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships. </p><p>The test is widely promoted as one of the guiding principles of Rotary International. </p>",
 		content: "The Four Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships The test is widely promoted as one of the guiding principles gp of Rotary International ri Of the things we think say or do 1 Is it the truth 2 Is it fair to all concerned 3 Will it build goodwill and better friendships 4 Will it be beneficial to all concerned gp https my rotary org en guiding principles ri https www rotary org"
+	},
+	{
+		title: "Self-Determination Theory",
+		date: "",
+    url: "lists/self-determination-theory.html",
+    summary: "<p>Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. </p><h2 id=\"1-autonomy\">1. Autonomy</h2><p>People need to feel essential control of their own behaviors and goals; </p>",
+		content: "Self Determination Theory identifies three basic psychological needs that must be satisfied to foster well being and health 1 Autonomy People need to feel essential control of their own behaviors and goals however this does not mean being independent of others 2 Competence People need to feel their ability to control the outcome of tasks and to experience a sense of mastery 3 Relatedness People need to experience a sense of belonging and attachment to other people"
 	},
 	{
 		title: "Steps in Decision-Making Conversations",

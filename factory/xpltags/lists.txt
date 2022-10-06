@@ -1,6 +1,10 @@
 Tag	Tag File Name	Seq	Folder	Title
 	.html	2	lists	7 Habits of Highly Effective People
-	.html	2	lists	The DRAMMA List of Psychological Needs
+autonomy	autonomy.html	2	lists	Core Design Principles for the Efficacy of Groups
+autonomy	autonomy.html	2	lists	The DRAMMA List of Psychological Needs
+autonomy	autonomy.html	2	lists	DRIVE: Motivational Factors for Complex Work
+autonomy	autonomy.html	2	lists	Self-Determination Theory
+decision-making	decision-making.html	2	lists	Steps in Decision-Making Conversations
 ethics	ethics.html	2	lists	The Rotarian Four-Way Test
 fairness	fairness.html	2	lists	Core Design Principles for the Efficacy of Groups
 fairness	fairness.html	2	lists	The Rotarian Four-Way Test
@@ -9,5 +13,9 @@ interdependence	interdependence.html	2	lists	Four Sentences that Lead to Wisdom
 interdependence	interdependence.html	2	lists	The Rotarian Four-Way Test
 leadership	leadership.html	2	lists	The Four Essential Attributes of Any Organization
 leadership	leadership.html	2	lists	Steps in Decision-Making Conversations
+mastery	mastery.html	2	lists	The DRAMMA List of Psychological Needs
+mastery	mastery.html	2	lists	DRIVE: Motivational Factors for Complex Work
+mastery	mastery.html	2	lists	Self-Determination Theory
 organizations	organizations.html	2	lists	Core Design Principles for the Efficacy of Groups
 organizations	organizations.html	2	lists	The Four Essential Attributes of Any Organization
+work	work.html	2	lists	DRIVE: Motivational Factors for Complex Work

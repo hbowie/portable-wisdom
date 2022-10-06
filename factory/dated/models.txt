@@ -1,0 +1,10 @@
+Date Added	Folder	Title	Content
+2022-10-04 17:09:21 -0700	Models	The Cynefin Framework	<p>Dan Snowden&#8217;s Cynefin framework offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. </p>
+2022-10-04 13:31:26 -0700	Models	Developmental Levels	<p>A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. </p>
+2022-10-04 16:55:56 -0700	Models	The Dreyfus Model of Skill Acquisition	"<p>First proposed by Stuart and Hubert Dreyfus in 1980, this model suggests that people go through roughly five stages as they acquire new skills. </p>
+
+<p>I first heard of this model from Dan North, who first made me aware of the [Dreyfus&#8230; </p>"
+2022-10-04 09:43:09 -0700	Models	The Four Quadrants	"<p>I originally came across this model in a book by Ken Wilber, titled <em>A Brief History of Everything.</em> </p>
+
+<p>It&#8217;s become a foundational piece of Wilber&#8217;s Integral Philosophy, something he terms <em>AQAL</em>, for <em>All Quadrants, All Levels</em>. </p>"
+2022-10-04 09:43:30 -0700	Models	The Urgent vs. Important Matrix	<p>This is a tool to help manage the allocation of resources to tasks. </p>

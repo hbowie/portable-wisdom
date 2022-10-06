@@ -1,0 +1,5 @@
+<?output "../dated/quotes.txt"?>
+Date Added	Folder	Title	Content
+<?nextrec?>
+=$date-added$=	Quotes	=$title$=	=$body&oq$=
+<?loop?>
