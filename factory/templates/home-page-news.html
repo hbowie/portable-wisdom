@@ -1,0 +1,57 @@
+<?output "../includes-gen/home-page-news.html"?>
+<?set list-count = 0 ?>
+<?set model-count = 0 ?>
+<?set quote-count = 0 ?>
+<?set group-count = 0 ?>
+<?nextrec?>
+<?set skip = false ?>
+<?if =$folder$= eq "Lists" ?>
+<?set list-count += 1 ?>
+<?set group-count = =$list-count$= ?>
+<?if =$list-count$= gt 2 ?>
+<?set skip = true ?>
+<?endif?>
+<?endif?>
+<?if =$folder$= eq "Models" ?>
+<?set model-count += 1 ?>
+<?set group-count = =$model-count$= ?>
+<?if =$model-count$= gt 2 ?>
+<?set skip = true ?>
+<?endif?>
+<?endif?>
+<?if =$folder$= eq "Quotes" ?>
+<?set quote-count += 1 ?>
+<?set group-count = =$quote-count$= ?>
+<?if =$quote-count$= gt 8 ?>
+<?set skip = true ?>
+<?endif?>
+<?endif?>
+<?if =$skip$= ne true ?>
+<?if =$group-count$= eq 1 ?>
+<h2>The Latest =$folder$=</h2>
+
+<?endif?>
+
+		<hr />
+
+		<h3>
+			<a href="=$folder&f$=/=$title&f$=.html">
+				=$title$=
+			</a>
+		</h3>
+		
+<?if =$folder$= eq "Quotes" ?>
+		<blockquote>
+<?endif?>
+			=$content$=
+<?if =$folder$= eq "Quotes" ?>
+		</blockquote>
+<?endif?>
+
+		<p class="perma-link">
+			<a href="=$folder&f$=/=$title&f$=.html">
+				Read more...
+			</a>
+		</p>
+<?endif?>
+<?loop?>

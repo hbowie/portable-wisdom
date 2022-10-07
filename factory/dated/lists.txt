@@ -2,9 +2,23 @@ Date Added	Folder	Title	Content
 2022-10-04 09:39:38 -0700	Lists	7 Habits of Highly Effective People	"<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=""https://en.wikipedia.org/wiki/Stephen_Covey"">Stephen R. Covey</a>'s <a href=""https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"">book of the same name</a>. </p>
 
 <p>1 </p>"
+2022-10-06 18:08:29 -0700	Lists	7 Ways to Think Like a 21st Century Economist	"<p>These come from Kate Raworth&#8217;s book <em><a href=""https://doughnuteconomics.org"">Doughnut Economics</a></em>. </p>
+
+<h2 id=""1-change-the-goal"">1. Change the Goal</h2>
+
+<p><em>from GDP to the Doughnut</em> </p>
+
+<p>Traditional economics sets the goal of continually increasing Gross Domestic Product. </p>"
 2022-10-04 15:52:52 -0700	Lists	Core Design Principles for the Efficacy of Groups	<p>I originally encountered these principles in David Sloan Wilson's book, <em>This View of Life.</em> If you&#8217;d like another description of these principles that is freely available on the web, you can refer to this&#8230; </p>
 2022-10-04 16:32:17 -0700	Lists	The DRAMMA List of Psychological Needs	<p>DRAMMA is a theory outlining six pschological needs that, when satisfied, lead to optimal functioning and higher levels of well-being. DRAMMA is notable for integrating leisure needs with other psychological needs more typically associated with work. </p>
-2022-10-04 16:32:02 -0700	Lists	DRIVE: Motivational Factors for Complex Work	<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>
+2022-10-04 16:32:02 -0700	Lists	DRIVE: Motivational Factors for Complex Work	"<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>
+
+<p>Many people have heard of these three factors via this lively video created by RSA Animate. </p>"
+2022-10-07 11:12:10 -0700	Lists	Elements of an Improvement Process	"<p>by Herb Bowie </p>
+
+<p>There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. </p>
+
+<p>I&#8217;m now going to describe the elements of natural selection that make this whole thing work. </p>"
 2022-10-04 09:41:09 -0700	Lists	The Four Essential Attributes of Any Organization	"<p>In order to survive and thrive, any organization must possess the following four characteristics. </p>
 
 <ul>
@@ -12,6 +26,14 @@ Date Added	Folder	Title	Content
 <li><strong>Integrity</strong> - The organization must act in accordance with its identity. </li>
 </ul>
 "
+2022-10-07 10:58:50 -0700	Lists	The Four-Fold Way	"<p>The Four-Fold Way&reg; come from the <a href=""https://bookshop.org/books/the-four-fold-way-walking-the-paths-of-the-warrior-teacher-healer-and-visionary/9780062500595"">book of the same name</a>, by <a href=""http://www.angelesarrien.com"">Angeles Arrien</a>. </p>
+
+<h2 id=""1-the-way-of-the-warrior"">1. The Way of the Warrior</h2>
+
+<p>Show up, and choose to be present. </p>"
+2022-10-07 09:56:52 -0700	Lists	The Four Horsemen of Relationship Apocalypse	"<p>In his research Dr. John Gottman identified the following relationship-destroying communication patterns. </p>
+
+<p>To reverse or correct these patterns, he also developed Antidotes to The Four Relationship Horsemen. </p>"
 2022-10-04 09:41:30 -0700	Lists	Four Sentences that Lead to Wisdom	"<p>These sentences come from author <a href=""https://www.louisepenny.com"">Louise Penny</a>, and are passed on by her detective protagonist, Armand Gamache, in several of her books. </p>
 
 <ol>
@@ -23,10 +45,21 @@ Date Added	Folder	Title	Content
 "
 2022-10-04 09:41:44 -0700	Lists	The Rotarian Four-Way Test	"<p>The Four-Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships. </p>
 
-<p>The test is widely promoted as one of the guiding principles of Rotary International. </p>"
+<p>The test is widely promoted as one of the guiding principles of Rotary International. </p>
+
+<p>Of the things we think, say or do: </p>
+
+<ol>
+<li>Is it the truth? </li>
+</ol>
+
+<p>2 </p>"
 2022-10-04 16:31:47 -0700	Lists	Self-Determination Theory	"<p>Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. </p>
 
 <h2 id=""1-autonomy"">1. Autonomy</h2>
 
-<p>People need to feel essential control of their own behaviors and goals; </p>"
+<p>People need to feel essential control of their own behaviors and goals; however this does not mean being independent of others. </p>
+
+<h2 id=""2."">2.</h2>
+"
 2022-10-04 17:09:00 -0700	Lists	Steps in Decision-Making Conversations	<p>These come from Craig Weber, and are described in his book Conversational Capacity (although I originally picked them up as part of a consulting engagement with Craig). </p>

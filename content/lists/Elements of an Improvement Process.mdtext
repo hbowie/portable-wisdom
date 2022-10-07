@@ -1,0 +1,114 @@
+Title:  Elements of an Improvement Process
+
+Tags:   progress
+
+Date Added: 2022-10-07 11:12:10 -0700
+
+Body:
+
+by Herb Bowie
+
+There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. 
+
+I'm now going to describe the elements of natural selection that make this whole thing work. 
+
+And, while trying not to take too many liberties, I'm going to describe the evolutionary process in such a way that the elements can be applied to other types of improvement/development work as well. 
+
+So let's proceed to examine the general elements of an improvement process, as demonstrated by natural selection.
+
+## 1. A Type of Thing
+
+In order to improve something, you need to have some type of thing to improve. The thing could be a primate, a society, a note-taking application, a business, a business process, an airplane or a laptop computer. A type of thing will always have some Function.
+
+
+## 2. Function
+
+A Type of Thing must have some function. That is, it must use some inputs and produce some outputs. Some outputs we can identify as useful (in some sense), while others may be categorized as waste, and others may be damaging or destructive. Often, amounts of these inputs and outputs can be quantified. And we generally want to minimize the inputs required, minimize the waste and damaging output, and maximize the useful output, in order to improve a type of thing.
+
+Note that, for living beings, common functions are to survive and to reproduce.
+
+## 3. Performance
+
+We can think of performance as a way of measuring how well a Type of Thing fulfills its Function. 
+
+For living things, performance is typically measured by population size over time. 
+
+## 4. Analysis
+
+For improvement efforts conducted by humans, an analysis step must be introduced. Such an analysis would consider the desired Function(s) to be performed, the associated Performance measures, alternative ways of achieving those functions, and trade-offs between those alternatives. 
+
+## 5. Type Design
+
+In order to improve a Type of Thing, one must have a means of reliably producing such a thing, and this usually means having the instructions needed to produce or replicate it. For biological organisms, this is the genome. For a software application, it is the source code. For an airplane, this is a large collection of design documents, such as drawings and parts lists (or 3-D models). For a nation, it is a constitution. 
+
+Note that a type design must always be composed using a known Type Design Language.
+
+## 6. Type Design Language
+
+In order to make use of a Type Design, there must first exist some language(s) that can be used to reliably and repeatably interpret such a set of instructions, in order to produce more instances of the Type of Thing. 
+
+## 7. Change
+
+In order to improve a Type of Thing, we must make some change to it. 
+
+In other words, we must introduce some variation. 
+
+This will generally consist of some change to the Type Design of the thing.
+
+Note that a change can be accidental and made at random (as is the case with biological evolution), or it can be made with some forethought and anticipation of the consequences (as is often the case with human design).
+
+## 8. Retention
+
+Change can bring both opportunities and danger, and so our brains are finely attuned to pay special attention to things that are changing. 
+
+We also associate change with progress, and so it is easy for us to think of change as the most important element of improvement. 
+
+But this impression is deceptive. Some degree of change is essential, but the amount of change that is introduced is generally dwarfed by the numbers of characteristics that are retained without modification. 
+
+In order for things to continue to fulfill their functions, design attributes that work must largely be retained. Changing everything at once is generally a recipe for disaster. As in classic scientific experimentation, it's best to keep all of the variables constant except one.
+
+## 9. Cooperation
+
+Some Types of Things often work out cooperative arrangements with other types of things, for their mutual benefit. The output from one type of thing, for example, might provide the input to some other type.
+
+## 10. Specialization
+
+Different Types of Things often specialize their Functions in order to achieve more fruitful Cooperation. 
+
+Think of the queen bee in a hive, or the various types of cells and organs with a complex organism.
+
+## 11. Composition
+
+One form of Cooperation happens when a larger Type of Thing is composed of a number of smaller types of things. These could be atoms within a molecule, cells in an organism, states in a nation, departments in a company, or individual humans within a team. 
+
+In all of these cases, some Function is achieved or improved through joint cooperative composition.
+
+In this sort of composition, the component elements generally exhibit some degree of specialization.
+
+## 12. Production
+
+After making Changes to a Type Design, more instances of the Type of Thing must be produced -- or reproduced, if you will -- in order to determine how well the changes work. 
+
+We could think of these initial instances produced after some change to the type design as prototypes. 
+
+## 13. Competition
+
+In order to determine whether come Change has improved the Performance of a Type of Thing, some form of competition must take place. 
+
+This can be competition between a new version of a thing against an older version, using some sort of reliable performance measures. 
+
+Or it can be competition between new versions and old versions performed in, or on, the field. 
+
+For biological entities, performance is often measured by comparing the relative quantities of instances of the new design (population sizes) to comparable numbers for the old design. If the new design crowds out the old, then it has won the competition. 
+
+Something similar occurs in competition between companies and products in a market economy. 
+
+In sports, such testing is ultimately performed on the playing field, as individuals and groups compete with each other.
+
+In science and engineering, such competition often takes place in a lab, and is referred to as testing.
+
+## 14. Modification of Type Design
+
+If the Competition has confirmed that the Change has resulted in improvements to the Performance of a Type of Thing, then the Type Design used for Production of additional units will generally be modified to incorporate the change.
+
+

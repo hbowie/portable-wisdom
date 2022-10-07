@@ -445,7 +445,7 @@ let searchQuotes = [
 		date: "1997",
     url: "quotes/the-songs-are-my-lexicon.html",
     summary: "<p>Here&#8217;s the thing with me and the religious thing. This is the flat-out truth: I find the religiosity and philosophy in the music. I don&#8217;t find it anywhere else. </p>",
-		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American singer-songwriter, author and visual artist Bob Dylan 1997 Interview for Newsweek "
+		content: "Here s the thing with me and the religious thing This is the flat out truth I find the religiosity and philosophy in the music I don t find it anywhere else Songs like Let Me Rest on a Peaceful Mountain or I Saw the Light that s my religion I don t adhere to rabbis preachers evangelists all of that I ve learned more from the songs than I ve learned from any of this kind of entity The songs are my lexicon I believe the songs Bob Dylan American journalist and novelist Bob Dylan 1997 Interview for Newsweek "
 	},
 	{
 		title: "Living happily ever after",
@@ -781,7 +781,7 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
     summary: "<p>Living in small groups has been baked into our psyches by thousands of generations of genetic evolution, and small groups need to remain &#8220;cells&#8221; in the cultural evolution of larger-scale societies. </p>",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -795,42 +795,42 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
     summary: "<p>One basic prescription is to do everything possible to re-create the ancestral social environment of small groups of nurturing individuals who know each other by their actions. </p>",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
     summary: "<p>Furthermore, as we have seen for genetic evolution, what&#8217;s adaptive in the evolutionary sense of the word isn&#8217;t necessarily good or right in the normative sense. </p>",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
     summary: "<p>As we are increasingly coming to realize, our species does represent a new evolutionary process — cultural evolution — that far surpasses cultural traditions in other species. </p>",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
     summary: "<p>In short, religions are great bushy trees that evolved, and continue to evolve, by cultural evolution. </p>",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
     summary: "<p>Multilevel selection theory tells us that something similar to team-level selection took place in our species for thousands of generations, resulting in adaptations for teamwork that are baked into the genetic architecture of our minds. </p>",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
     summary: "<p>With this perspective, you can begin to think of yourself as not just a product of your genes, and not just a product of your personal experience, but also as one of many members of your culture who collectively contain a vast repository of&#8230; </p>",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -2804,7 +2804,7 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/governance-is-essential.html",
     summary: "<p>The simple maps of idealized markets leave out many real-world details that must be dealt with in order for the market to actually function properly. Governance is essential. </p>",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
@@ -2818,7 +2818,7 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/worshipping-the-divine-right-of-capital.html",
     summary: "<p>Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings. </p>",
-		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "Future economic historians may look back wryly at this period when we worshipped the divine right of capital while looking down on our ancestors who believed in the divine right of kings Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Belief in Impossible Things",

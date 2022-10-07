@@ -5,6 +5,7 @@ autonomy	autonomy.html	2	lists	The DRAMMA List of Psychological Needs
 autonomy	autonomy.html	2	lists	DRIVE: Motivational Factors for Complex Work
 autonomy	autonomy.html	2	lists	Self-Determination Theory
 decision-making	decision-making.html	2	lists	Steps in Decision-Making Conversations
+economics	economics.html	2	lists	7 Ways to Think Like a 21st Century Economist
 ethics	ethics.html	2	lists	The Rotarian Four-Way Test
 fairness	fairness.html	2	lists	Core Design Principles for the Efficacy of Groups
 fairness	fairness.html	2	lists	The Rotarian Four-Way Test
@@ -18,4 +19,7 @@ mastery	mastery.html	2	lists	DRIVE: Motivational Factors for Complex Work
 mastery	mastery.html	2	lists	Self-Determination Theory
 organizations	organizations.html	2	lists	Core Design Principles for the Efficacy of Groups
 organizations	organizations.html	2	lists	The Four Essential Attributes of Any Organization
+progress	progress.html	2	lists	Elements of an Improvement Process
+relationships	relationships.html	2	lists	The Four Horsemen of Relationship Apocalypse
+wisdom	wisdom.html	2	lists	The Four-Fold Way
 work	work.html	2	lists	DRIVE: Motivational Factors for Complex Work

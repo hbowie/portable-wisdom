@@ -1,5 +1,5 @@
 <?output "../dated/models.txt"?>
 Date Added	Folder	Title	Content
 <?nextrec?>
-=$date-added$=	Models	=$title$=	=$body&soq$=
+=$date-added$=	Models	=$title$=	=$body&s300oq$=
 <?loop?>

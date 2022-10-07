@@ -88,6 +88,14 @@ sort	add	ascending	Title
 sort	set		params
 template	open			#PATH#templates/rss.xml
 template	generate
+sort	clear
+sort	set		params
+sort	add	ascending	Folder
+sort	add	descending	Date Added
+sort	add	ascending	Title
+sort	set		params
+template	open			#PATH#templates/home-page-news.html
+template	generate
 
 <!-- Create XplTags extract file for quotes -->
 
