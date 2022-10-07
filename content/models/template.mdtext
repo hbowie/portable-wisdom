@@ -1,12 +1,16 @@
-Title: <title> 
+Title: <title>
 
-Tags: <tags> 
+Tags: <tags>
 
-Index: <index> 
+Index: <index>
 
-Image Name: <imagename> 
+Author: <lookup: authors>
 
-Date Added: <dateadded> 
+Work Title: <lookup: works>
 
-Body:  
+Image Name: <imagename>
+
+Date Added: <dateadded>
+
+Body:
 
