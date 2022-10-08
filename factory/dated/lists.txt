@@ -1,7 +1,8 @@
 Date Added	Folder	Title	Content
-2022-10-04 09:39:38 -0700	Lists	7 Habits of Highly Effective People	"<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=""https://en.wikipedia.org/wiki/Stephen_Covey"">Stephen R. Covey</a>'s <a href=""https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"">book of the same name</a>. </p>
+2022-10-07 13:12:07 -0700	Lists	7 Habits of Highly Effective People	"<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=""https://en.wikipedia.org/wiki/Stephen_Covey"">Stephen R. Covey</a>'s <a href=""https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"">book of the same name</a>. </p>
 
-<p>1 </p>"
+<h2 id=""1."">1.</h2>
+"
 2022-10-06 18:08:29 -0700	Lists	7 Ways to Think Like a 21st Century Economist	"<p>These come from Kate Raworth&#8217;s book <em><a href=""https://doughnuteconomics.org"">Doughnut Economics</a></em>. </p>
 
 <h2 id=""1-change-the-goal"">1. Change the Goal</h2>
@@ -9,14 +10,12 @@ Date Added	Folder	Title	Content
 <p><em>from GDP to the Doughnut</em> </p>
 
 <p>Traditional economics sets the goal of continually increasing Gross Domestic Product. </p>"
-2022-10-04 15:52:52 -0700	Lists	Core Design Principles for the Efficacy of Groups	<p>I originally encountered these principles in David Sloan Wilson's book, <em>This View of Life.</em> If you&#8217;d like another description of these principles that is freely available on the web, you can refer to this&#8230; </p>
+2022-10-07 13:12:07 -0700	Lists	Core Design Principles for the Efficacy of Groups	<p>I originally encountered these principles in David Sloan Wilson's book, <em>This View of Life.</em> If you&#8217;d like another description of these principles that is freely available on the web, you can refer to this&#8230; </p>
 2022-10-04 16:32:17 -0700	Lists	The DRAMMA List of Psychological Needs	<p>DRAMMA is a theory outlining six pschological needs that, when satisfied, lead to optimal functioning and higher levels of well-being. DRAMMA is notable for integrating leisure needs with other psychological needs more typically associated with work. </p>
 2022-10-04 16:32:02 -0700	Lists	DRIVE: Motivational Factors for Complex Work	"<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>
 
 <p>Many people have heard of these three factors via this lively video created by RSA Animate. </p>"
-2022-10-07 11:12:10 -0700	Lists	Elements of an Improvement Process	"<p>by Herb Bowie </p>
-
-<p>There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. </p>
+2022-10-07 11:12:10 -0700	Lists	Elements of an Improvement Process	"<p>There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. </p>
 
 <p>I&#8217;m now going to describe the elements of natural selection that make this whole thing work. </p>"
 2022-10-04 09:41:09 -0700	Lists	The Four Essential Attributes of Any Organization	"<p>In order to survive and thrive, any organization must possess the following four characteristics. </p>

@@ -1,5 +1,5 @@
 Date Added	Folder	Title	Content
-2022-10-04 17:09:21 -0700	Models	The Cynefin Framework	<p>Dan Snowden&#8217;s Cynefin framework offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. </p>
+2022-10-04 17:09:21 -0700	Models	The Cynefin Framework	<p>Dave Snowden&#8217;s Cynefin framework offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. </p>
 2022-10-04 13:31:26 -0700	Models	Developmental Levels	<p>A number of authors and systems of thought espouse one or another series of developmental levels, in fields of study as diverse as psychology, sociology, economics and organizational development. </p>
 2022-10-04 16:55:56 -0700	Models	The Dreyfus Model of Skill Acquisition	"<p>First proposed by Stuart and Hubert Dreyfus in 1980, this model suggests that people go through roughly five stages as they acquire new skills. </p>
 
