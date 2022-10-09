@@ -80,23 +80,20 @@
 			=$body&o$=
 		</blockquote>
 
-<?if "=$worktitle$=" ?>
-<?if "=$worktitle$=" ne "unknown" ?>
-		<p>From
-<?if =$worktype$= ?>
-		the =$worktype&l$=
-<?endif?>
-		<cite>
+<?if "=$knownworktitle$=" ?>
+		<p>From =$theworktypeslug$=
 <?if "=$worklink$=" ?>
 			<a href="=$worklink$=">
 <?endif?>
-				=$worktitle$=
+<?if =$majorwork$= eq true ?>
+			<cite>=$worktitle$=</cite>
+<?else?>
+			&ldquo;=$worktitle$=&rdquo;
+<?endif?>
 <?if "=$worklink$=" ?>
 			</a>
 <?endif?>
-			</cite>
 		</p>
-<?endif?>
 <?endif?>
 <?if "=$date$=" ?>
 		<p>&mdash; =$date$=</p>

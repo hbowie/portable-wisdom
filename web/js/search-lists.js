@@ -3,7 +3,7 @@ let searchLists = [
 		title: "7 Habits of Highly Effective People",
 		date: "",
     url: "lists/7-habits-of-highly-effective-people.html",
-    summary: "<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=\"https://en.wikipedia.org/wiki/Stephen_Covey\">Stephen R. Covey</a>'s <a href=\"https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People\">book of the same name</a>. </p><h2 id=\"1.\">1.</h2>",
+    summary: "<p>The 7 Habits of Highly Effective People&reg; is, of course, the famous list from <a href=\"https://en.wikipedia.org/wiki/Stephen_Covey\">Stephen R. Covey</a>'s <a href=\"https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People\">book of the same name</a>. </p>",
 		content: "The 7 Habits of Highly Effective People reg is of course the famous list from Stephen R Covey https en wikipedia org wiki Stephen Covey s book of the same name https en wikipedia org wiki The 7 Habits of Highly Effective People 1 Be Proactive Focus and act on what you can control and influence instead of what you can t 2 Begin With The End in Mind Fully envision the consequences you wish to achieve and how you might achieve them before starting to move forward 3 Put First Things First Consider what is important as well as what is urgent and make time to work on the important things even if they are not urgent Also see the Urgent vs Important Matrix https portablewisdom org models the urgent vs important matrix html 4 Think Win Win Make a habit of seeking solutions that are beneficial to all concerned See also the elements of The Rotarian Four Way Test 5 Seek First to Understand Then to Be Understood Build trust and understanding by apprehension and appreciation of the needs and perspectives of others Also see steps 3 and 4 in the Steps in Decision Making Conversations 6 Synergize Draw on diverse strengths of involved parties so as to achieve goals that no single team member could have accomplished on their own 7 Sharpen the Saw Make time for renewing activities Also see the The DRAMMA List of Psychological Needs"
 	},
 	{
@@ -52,7 +52,7 @@ let searchLists = [
 		title: "The Four-Fold Way",
 		date: "",
     url: "lists/the-four-fold-way.html",
-    summary: "<p>The Four-Fold Way&reg; come from the <a href=\"https://bookshop.org/books/the-four-fold-way-walking-the-paths-of-the-warrior-teacher-healer-and-visionary/9780062500595\">book of the same name</a>, by <a href=\"http://www.angelesarrien.com\">Angeles Arrien</a>. </p><h2 id=\"1.\">1.</h2>",
+    summary: "<p>The Four-Fold Way&reg; </p>",
 		content: "The Four Fold Way reg come from the book of the same name https bookshop org books the four fold way walking the paths of the warrior teacher healer and visionary 9780062500595 by Angeles Arrien http www angelesarrien com 1 The Way of the Warrior Show up and choose to be present 2 The Way of the Healer Pay attention to what has heart and meaning 3 The Way of the Visionary Tell the truth without blame or judgment 4 The Way of the Teacher Be open to outcome not attached to outcome"
 	},
 	{
