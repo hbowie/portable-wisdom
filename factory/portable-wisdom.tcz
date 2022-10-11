@@ -42,6 +42,23 @@ template	generate
 template	open			#PATH#templates/models-dated.txt
 template	generate
 
+<!-- Generate information for authors  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/authors/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Author
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/author-info-include.html
+template	generate
+template	open			#PATH#templates/authors-index.html
+template	generate
+
 <!-- Generate Web pages for quotations  -->
 
 input	set		xpltags	false
@@ -58,11 +75,7 @@ sort	set		params
 template	webroot			#PATH#../web/
 template	open			#PATH#templates/quote-page.html
 template	generate
-template	open			#PATH#templates/author-info-include.html
-template	generate
 template	open			#PATH#templates/author-page.html
-template	generate
-template	open			#PATH#templates/authors-index.html
 template	generate
 template	open			#PATH#templates/quote-random.html
 template	generate

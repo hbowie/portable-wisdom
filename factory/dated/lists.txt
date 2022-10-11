@@ -12,9 +12,11 @@ Date Added	Folder	Title	Content
 2022-10-04 16:32:02 -0700	Lists	DRIVE: Motivational Factors for Complex Work	"<p>In is book Drive, Daniel H. Pink identified three vital sources of extrinsic motivation for individuals engaged in something more complex than simple, straightforward tasks. </p>
 
 <p>Many people have heard of these three factors via this lively video created by RSA Animate. </p>"
-2022-10-07 11:12:10 -0700	Lists	Elements of an Improvement Process	"<p>There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. </p>
+2022-10-07 11:12:10 -0700	Lists	Elements of an Improvement Process	"<p>All living things are interested in improvement, whether it&#8217;s improving ourselves, our society, our processes, our products, or our species. </p>
 
-<p>I&#8217;m now going to describe the elements of natural selection that make this whole thing work. </p>"
+<p>But how does improvement work? </p>
+
+<p>Below I&#8217;ve listed the elements of an improvement process. </p>"
 2022-10-04 09:41:09 -0700	Lists	The Four Essential Attributes of Any Organization	"<p>In order to survive and thrive, any organization must possess the following four characteristics. </p>
 
 <ul>
@@ -42,6 +44,7 @@ Date Added	Folder	Title	Content
 2022-10-04 09:41:44 -0700	Lists	The Rotarian Four-Way Test	"<p>The Four-Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships. </p>
 
 <p>The test is widely promoted as one of the guiding principles of Rotary International. </p>"
+2022-10-09 16:35:28 -0700	Lists	The Scientific Method	"<p>The <a href=""https://en.wikipedia.org/wiki/Scientific_method"">scientific method</a> is an empirical method of acquiring knowledge that has characterized the development of science. </p>"
 2022-10-04 16:31:47 -0700	Lists	Self-Determination Theory	"<p>Self-Determination Theory identifies three basic psychological needs that must be satisfied to foster well-being and health. </p>
 
 <h2 id=""1-autonomy"">1. Autonomy</h2>

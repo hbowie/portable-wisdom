@@ -49,7 +49,7 @@
 
 	<main>
 
-		<h1>All Quoted Authors</h1>
+		<h1>All Cited Authors</h1>
 
 		<p>You may sort the table by <button type="button" onclick="sortTable(0)">Author Name</button> (first-name first), or by Author <button type="button" onclick="sortTable(1)">Last Name</button>, or by <button type="button" onclick="sortTable(2)">Years Lived</button>. Hover over an author's name for brief info about them. </p>
 		
@@ -70,25 +70,11 @@
 			</thead>
 			<tbody>
 <?nextrec?>
-<?definegroup 1 “=$author$="?>
-<?ifendgroup 1 ?>
 			<tr>
-				<td><a href="=$holdauthor&f$=.html" data-bs-toggle="tooltip" title="=$holdinfo$=">=$holdauthor$=</a></td>
-				<td>=$holdauthor&a1$=</td>
-				<td>=$holdyears$=</td>
+				<td><a href="=$author&f$=.html" data-bs-toggle="tooltip" title="=$authorinfo$=">=$author$=</a></td>
+				<td>=$author&a1$=</td>
+				<td>=$authoryears$=</td>
 			</tr>
-<?endif?>
-<?ifnewgroup 1 ?>
-<?set holdauthor = "=$author$=" ?>
-<?set holdyears  = "" ?>
-<?set holdinfo   = "" ?>
-<?endif?>
-<?if "=$authoryears$=" ?>
-<?set holdyears = "=$authoryears$=" ?>
-<?endif?>
-<?if "=$authorinfo$=" ?>
-<?set holdinfo = "=$authorinfo$=" ?>
-<?endif?>
 <?loop?>
 			</tbody>
 		</table>

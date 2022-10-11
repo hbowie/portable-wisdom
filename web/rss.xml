@@ -7,10 +7,19 @@
 	<language>en-us</language>
 	<managingEditor>hbowie@portablewisdom.org (Herb Bowie)</managingEditor>
 	<webMaster>hbowie@portablewisdom.org (Herb Bowie)</webMaster>
-	<lastBuildDate>Sun, 09 Oct 2022 00:00 PDT</lastBuildDate>
-	<pubDate>Sun, 09 Oct 2022 00:00 PDT</pubDate>
+	<lastBuildDate>Tue, 11 Oct 2022 00:00 PDT</lastBuildDate>
+	<pubDate>Tue, 11 Oct 2022 00:00 PDT</pubDate>
 	<atom:link href="https://portablewisdom.org/rss.xml" rel="self" type="application/rss+xml" />
 	<ttl>1440</ttl>
+	<item>
+		<title>The Scientific Method</title>
+		<link>https://portablewisdom.org/lists/the-scientific-method.html</link>
+		<guid isPermaLink="true">https://portablewisdom.org/lists/the-scientific-method.html</guid>
+		<pubDate>Sun, 09 Oct 2022 00:00 PDT</pubDate>
+		<description>
+			&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Scientific_method&quot;&gt;scientific method&lt;/a&gt; is an empirical method of acquiring knowledge that has characterized the development of science. &lt;/p&gt;
+		</description>
+	</item>
 	<item>
 		<title>7 Habits of Highly Effective People</title>
 		<link>https://portablewisdom.org/lists/7-habits-of-highly-effective-people.html</link>
@@ -35,9 +44,11 @@
 		<guid isPermaLink="true">https://portablewisdom.org/lists/elements-of-an-improvement-process.html</guid>
 		<pubDate>Fri, 07 Oct 2022 00:00 PDT</pubDate>
 		<description>
-			&lt;p&gt;There is general scientific consenus these days that all forms of life on Earth have developed through the slow process of evolution, using the development engine of natural selection. &lt;/p&gt;
+			&lt;p&gt;All living things are interested in improvement, whether it&amp;#8217;s improving ourselves, our society, our processes, our products, or our species. &lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;m now going to describe the elements of natural selection that make this whole thing work. &lt;/p&gt;
+&lt;p&gt;But how does improvement work? &lt;/p&gt;
+
+&lt;p&gt;Below I&amp;#8217;ve listed the elements of an improvement process. &lt;/p&gt;
 		</description>
 	</item>
 	<item>
@@ -222,15 +233,6 @@
 		<pubDate>Wed, 21 Sep 2022 00:00 PDT</pubDate>
 		<description>
 			&lt;p&gt;Very large social units are always, in a sense, imaginary. Or, to put it in a slightly different way, there is always a fundamental distinction between the way one relates to friends, family, neighbourhood, people and places that we actually know directly, and the way one relates to empires, nations and metropolises, phenomena that exist largely, or at least most of the time, in our heads. &lt;/p&gt;
-		</description>
-	</item>
-	<item>
-		<title>Many humans just don&apos;t like their families</title>
-		<link>https://portablewisdom.org/quotes/many-humans-just-donapost-like-their-families.html</link>
-		<guid isPermaLink="true">https://portablewisdom.org/quotes/many-humans-just-donapost-like-their-families.html</guid>
-		<pubDate>Wed, 21 Sep 2022 00:00 PDT</pubDate>
-		<description>
-			&lt;p&gt;There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship: many humans just don&amp;#8217;t like their families very much. And this appears to be just as true of present-day hunter-gatherers as anybody else. Many seem to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them. &lt;/p&gt;
 		</description>
 	</item>
 </channel>

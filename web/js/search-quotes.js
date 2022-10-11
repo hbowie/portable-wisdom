@@ -228,7 +228,7 @@ let searchQuotes = [
 		date: "1993",
     url: "quotes/the-four-fold-way.html",
     summary: "<p>The following four principles, each based on an archetype, comprise what I call the Four-Fold Way: </p><p>1&#8230;. </p>",
-		content: "The following four principles each based on an archetype comprise what I call the Four Fold Way 1 <em>Show up or choose to be present < em> Being present allows us to access the human resources of power presence and communication This is the way of the Warrior 2 <em>Pay attention to what has heart and meaning < em> Paying attention opens us to the human resources of love gratitude acknowledgment and validation This is the way of the Healer 3 <em>Tell the truth without blame or judgment < em> Nonjudgmental truthfulness maintains our authenticity and develops our inner vision and intuition This is the way of the Visionary 4 <em>Be open to outcome not attached to outcome < em> Openness and nonattachment help us to recover the human resources of wisdom and objectivity This is the way of the Teacher Angeles Arrien  The Four-Fold Way "
+		content: "The following four principles each based on an archetype comprise what I call the Four Fold Way 1 <em>Show up or choose to be present < em> Being present allows us to access the human resources of power presence and communication This is the way of the Warrior 2 <em>Pay attention to what has heart and meaning < em> Paying attention opens us to the human resources of love gratitude acknowledgment and validation This is the way of the Healer 3 <em>Tell the truth without blame or judgment < em> Nonjudgmental truthfulness maintains our authenticity and develops our inner vision and intuition This is the way of the Visionary 4 <em>Be open to outcome not attached to outcome < em> Openness and nonattachment help us to recover the human resources of wisdom and objectivity This is the way of the Teacher Angeles Arrien A Basque-American cultural anthropologist, educator, author, lecturer and consultant The Four-Fold Way "
 	},
 	{
 		title: "Fuzzy Concept",
@@ -746,14 +746,14 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
     summary: "<p>Our ancestors found ways to suppress disruptive competition among individuals within groups, so that between-group selection became the primary evolutionary force. </p>",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
     summary: "<p>But the chicken experiments suggest that this logic is flawed &#8211; even for farm animals where eugenics is a common practice. It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare. </p>",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
@@ -774,14 +774,14 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
     summary: "<p>If we could say only one thing about making the world a better place, to be reflected in our social policies and our personal decisions, it would be to increase nurturance thoughout the life span and especially during its early stages, starting&#8230; </p>",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
 		date: "2019",
     url: "quotes/living-in-small-groups-has-been-baked-into-our-psyches.html",
     summary: "<p>Living in small groups has been baked into our psyches by thousands of generations of genetic evolution, and small groups need to remain &#8220;cells&#8221; in the cultural evolution of larger-scale societies. </p>",
-		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Living in small groups has been baked into our psyches by thousands of generations of genetic evolution and small groups need to remain cells in the cultural evolution of larger scale societies David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The malleability of life",
@@ -795,7 +795,7 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/nurturance-is-a-master-variable.html",
     summary: "<p>One basic prescription is to do everything possible to re-create the ancestral social environment of small groups of nurturing individuals who know each other by their actions. </p>",
-		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "One basic prescription is to do everything possible to re create the ancestral social environment of small groups of nurturing individuals who know each other by their actions Provide such an environment and prosocial child development and adult relations will take place with surprising ease In the absence of a nurturing social environment the shaping of behavior will lead in a very different direction survival and reproductive strategies that are predicated on the absence of social support that benefit me and not you us and not them today without regard for tomorrow That s what Tony means by calling nurturance a master variable David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our long-term personal and societal goals",
@@ -823,14 +823,14 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/small-groups-are-a-fundamental-unit-of-human-social-organization.html",
     summary: "<p>Multilevel selection theory tells us that something similar to team-level selection took place in our species for thousands of generations, resulting in adaptations for teamwork that are baked into the genetic architecture of our minds. </p>",
-		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Multilevel selection theory tells us that something similar to team level selection took place in our species for thousands of generations resulting in adaptations for teamwork that are baked into the genetic architecture of our minds Absorbing this fact leads to the conclusion that small groups are a fundamental unit of human social organization Individuals cannot be understood except in the context of small groups and large scale societies need to be seen as a kind of multicellular organism comprising small groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "A vast repository of information learned and passed down from previous generations",
 		date: "2019",
     url: "quotes/a-vast-repository-of-information-learned-and-passed-down-from-previous-generations.html",
     summary: "<p>With this perspective, you can begin to think of yourself as not just a product of your genes, and not just a product of your personal experience, but also as one of many members of your culture who collectively contain a vast repository of&#8230; </p>",
-		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "With this perspective you can begin to think of yourself as not just a product of your genes and not just a product of your personal experience but also as one of many members of your culture who collectively contain a vast repository of information learned and passed down from previous generations This makes you part of something larger than yourself The information has not just been passed down but it has also been winnowed through the generations leaving us with a set of beliefs and practices that helped us to cohere as groups David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The Columbia Disaster",
@@ -2804,14 +2804,14 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/governance-is-essential.html",
     summary: "<p>The simple maps of idealized markets leave out many real-world details that must be dealt with in order for the market to actually function properly. Governance is essential. </p>",
-		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
+		content: "The simple maps of idealized markets leave out many real world details that must be dealt with in order for the market to actually function properly Governance is essential Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "In the thrall of a vast, world-spanning machine",
 		date: "2017",
     url: "quotes/in-the-thrall-of-a-vast-world-spanning-machine.html",
     summary: "<p>We are already in the thrall of a vast, world-spanning machine that, due to errors in its foundational programming, has developed a disdain for human beings, is working to make them irrelevant, and resists all attempts to bring it back under control. </p>",
-		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "We are already in the thrall of a vast world spanning machine that due to errors in its foundational programming has developed a disdain for human beings is working to make them irrelevant and resists all attempts to bring it back under control It is not yet intelligent or autonomous and it still depends on its partnership with humans but it grows more powerful and more independent every day We are engaged in a battle for the soul of this machine and we are losing Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Worshipping the divine right of capital",
