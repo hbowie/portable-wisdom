@@ -649,6 +649,7 @@ society	society.html	3	quotes	We Need a Place to Stand
 society	society.html	3	quotes	We need governments to provide clear pathways
 society	society.html	3	quotes	We vastly underestimate the impact of our immediate environment on our behavior
 society	society.html	3	quotes	What would a new social compact look like?
+society	society.html	3	quotes	When racial or religious lines are drawn by the State
 society	society.html	3	quotes	The yen to work drops in flat economies
 sustainability	sustainability.html	3	quotes	Climate Changers
 sustainability	sustainability.html	3	quotes	Digging up fossil fuels and setting them alight
