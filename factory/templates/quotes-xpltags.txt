@@ -1,5 +1,9 @@
 <?output "../xpltags/quotes.txt"?>
-Tag	Tag File Name	Seq	Folder	Title
+Tag	Tag File Name	Seq	Folder	Priority	Title	Author	Body
 <?nextrec?>
-=$tag$=	=$tag&f$=.html	3	quotes	=$title$=
+<?if "=$priority$=" ?>
+=$tag$=	=$tag&f$=.html	3	quotes	=$priority$=	=$title$=	=$author$=	=$body&q$=
+<?else?>
+=$tag$=	=$tag&f$=.html	3	quotes	999999	=$title$=	=$author$=	=$body&q$=
+<?endif?>
 <?loop?>

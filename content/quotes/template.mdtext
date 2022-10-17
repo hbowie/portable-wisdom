@@ -4,6 +4,8 @@ Featured: <boolean>
 
 Recommended: <boolean> 
 
+Priority: <seq> 
+
 Author: <lookup: authors> 
 
 Date: <date> 

@@ -2,6 +2,14 @@
 <?definegroup 1 “=$tag-file-name$=" ?>
 <?definegroup 2 "=$seq$=" ?>
 <?ifendgroup 2 ?>
+<?if =$seq$= eq 1 ?>
+		</ul>
+<?endif?>
+<?if =$seq$= eq 2 ?>
+		</ul>
+<?endif?>
+<?if =$seq$= eq 3 ?>
+<?endif?>
 		</ul>
 <?endif?>
 <?ifendgroup 1 ?>
@@ -22,7 +30,7 @@
 <head>
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-	<title>Topic: =$tag$==</title>
+	<title>Topic: =$tag$=</title>
 	<meta name="description" content='Wisdom on the subject of =$tag$=' />
 <?include "../includes/head-links.html" ?>
 </head>
@@ -69,23 +77,56 @@
 
 		<h1>Wisdom on the Topic of <span class="tag-topic">=$tag$=</a></h1>
 		
+<?include "../includes-gen/topic-=$tag&f$=.html" ?>
+		
 <?endif?>
 <?ifnewgroup 2 ?>
 <?if =$seq$= eq 1 ?>
 		<h2>Models</h2>
+		
+		<ul>
 <?endif?>
 <?if =$seq$= eq 2 ?>
 		<h2>Lists</h2>
+		
+		<ul>
 <?endif?>
 <?if =$seq$= eq 3 ?>
 		<h2>Quotations</h2>
+		 
 <?endif?>
-
-		<ul>
 <?endif?>
+<?if =$seq$= eq 1 ?>
 			<li>
 				<a href="../=$folder$=/=$title&f$=.html">
 					=$title$=
 				</a>
 			</li>
+<?endif?>
+<?if =$seq$= eq 2 ?>
+			<li>
+				<a href="../=$folder$=/=$title&f$=.html">
+					=$title$=
+				</a>
+			</li>
+<?endif?>
+<?if =$seq$= eq 3 ?>
+			<h3>
+				<a href="../=$folder$=/=$title&f$=.html">
+					=$title$= 
+				</a>
+			</h3>
+			
+			<blockquote>
+				=$body&o$=
+			</blockquote>
+<?if "=$author$=" ?>
+			<p class="perma-link">
+				&mdash; 
+				<a href="../=$folder$=/=$title&f$=.html">
+				  =$author$= 
+				</a>
+			</p>
+<?endif?>
+<?endif?>
 <?loop?>

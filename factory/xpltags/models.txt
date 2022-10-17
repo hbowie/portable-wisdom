@@ -1,9 +1,9 @@
-Tag	Tag File Name	Seq	Folder	Title
-decision-making	decision-making.html	1	models	The Cynefin Framework
-integral	integral.html	1	models	Developmental Levels
-integral	integral.html	1	models	The Four Quadrants
-leadership	leadership.html	1	models	The Cynefin Framework
-management	management.html	1	models	The Urgent vs. Important Matrix
-mastery	mastery.html	1	models	The Dreyfus Model of Skill Acquisition
-perspectives	perspectives.html	1	models	The Four Quadrants
-tasks	tasks.html	1	models	The Urgent vs. Important Matrix
+Tag	Tag File Name	Seq	Folder	Priority	Title	Author	Body
+decision-making	decision-making.html	1	models		The Cynefin Framework		
+integral	integral.html	1	models		Developmental Levels		
+integral	integral.html	1	models		The Four Quadrants		
+leadership	leadership.html	1	models		The Cynefin Framework		
+management	management.html	1	models		The Urgent vs. Important Matrix		
+mastery	mastery.html	1	models		The Dreyfus Model of Skill Acquisition		
+perspectives	perspectives.html	1	models		The Four Quadrants		
+tasks	tasks.html	1	models		The Urgent vs. Important Matrix		

@@ -110,6 +110,21 @@ sort	set		params
 template	open			#PATH#templates/home-page-news.html
 template	generate
 
+<!-- Generate information for topics  -->
+
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		#PATH#../content/topics/
+filter	clear
+filter	set		params
+sort	clear
+sort	set		params
+sort	add	ascending	Title
+sort	set		params
+template	webroot			#PATH#../web/
+template	open			#PATH#templates/topic-info-include.html
+template	generate
+
 <!-- Create XplTags extract file for quotes -->
 
 input	set		xpltags	true
@@ -168,6 +183,7 @@ sort	clear
 sort	set		params
 sort	add	ascending	Tag File Name
 sort	add	ascending	Seq
+sort	add	ascending	Priority
 sort	add	ascending	Title
 sort	set		params
 template	open			#PATH#templates/topic-page.html

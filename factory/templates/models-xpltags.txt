@@ -1,5 +1,5 @@
 <?output "../xpltags/models.txt"?>
-Tag	Tag File Name	Seq	Folder	Title
+Tag	Tag File Name	Seq	Folder	Priority	Title	Author	Body
 <?nextrec?>
-=$tag$=	=$tag&f$=.html	1	models	=$title$=
+=$tag$=	=$tag&f$=.html	1	models		=$title$=		
 <?loop?>

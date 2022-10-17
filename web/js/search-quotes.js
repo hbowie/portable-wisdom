@@ -746,35 +746,35 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/between-group-selection-became-the-primary-evolutionary-force.html",
     summary: "<p>Our ancestors found ways to suppress disruptive competition among individuals within groups, so that between-group selection became the primary evolutionary force. </p>",
-		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Our ancestors found ways to suppress disruptive competition among individuals within groups so that between group selection became the primary evolutionary force This favored group level coordination in all its forms including the transmission of learned information across generations David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The chicken experiment",
 		date: "2019",
     url: "quotes/the-chicken-experiment.html",
     summary: "<p>But the chicken experiments suggest that this logic is flawed &#8211; even for farm animals where eugenics is a common practice. It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare. </p>",
-		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "But the chicken experiments suggest that this logic is flawed even for farm animals where eugenics is a common practice It seems Francis Galton was deeply mistaken about the relationship between individual abilities and societal welfare The number of eggs laid by an individual hen is not an individual trait so much as it is a social trait because it depends upon how members of the group behave towards each other If the individuals who profit most from a social group do not contribute to the group s welfare and if their traits are heritable then selecting for them results in the collapse of the society David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The entire pageant of human history",
 		date: "2019",
     url: "quotes/the-entire-pageant-of-human-history.html",
     summary: "<p>Once we become attuned to it, the entire pageant of human history, starting approximately 100,000 years ago, can be seen as evolution at high speed, made possible by the transmission of learned information across generations. </p>",
-		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Once we become attuned to it the entire pageant of human history starting approximately 100 000 years ago can be seen as evolution at high speed made possible by the transmission of learned information across generations Our departure from Africa and colonization of the rest of the planet our ability to inhabit all climatic zones and dozens of ecological niches as hunter gatherers our ability to grow food as farmers the advent of writing and the exploitation of fossil fuels were all made possible by the generational transfer of information David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "The eternal struggle between good and evil",
 		date: "2019",
     url: "quotes/the-eternal-struggle-between-good-and-evil.html",
     summary: "<p>Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil. With cancer, the group is the multicellular organism and the individuals are the cells. </p>",
-		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "Cancer provides an example of multilevel selection and the eternal contest between the behaviors associated with good and evil With cancer the group is the multicellular organism and the individuals are the cells Just as the traits associated with good are vulnerable to the traits associated with evil for organisms living in social groups normal cells are vulnerable to cancer cells within multicellular organisms In the same way groups of morally virtuous individuals outcompete groups crippled by selfishness multicellular organisms free of cancer outcompete multicellular organisms riddled by cancer The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Increase nurturance thoughout the life span",
 		date: "2019",
     url: "quotes/increase-nurturance-thoughout-the-life-span.html",
     summary: "<p>If we could say only one thing about making the world a better place, to be reflected in our social policies and our personal decisions, it would be to increase nurturance thoughout the life span and especially during its early stages, starting&#8230; </p>",
-		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "If we could say only one thing about making the world a better place to be reflected in our social policies and our personal decisions it would be to increase nurturance thoughout the life span and especially during its early stages starting before birth David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Living in small groups has been baked into our psyches",
@@ -788,7 +788,7 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/the-malleability-of-life.html",
     summary: "<p>It is sobering to contemplate the malleability of life. It only takes five generations to turn a population of mild-mannered chickens into a population of psychopaths. </p>",
-		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "It is sobering to contemplate the malleability of life It only takes five generations to turn a population of mild mannered chickens into a population of psychopaths If we don t manage evolutionary processes they will very likely take us where we don t want to go David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Nurturance is a master variable",
@@ -802,21 +802,21 @@ let searchQuotes = [
 		date: "2019",
     url: "quotes/our-long-term-personal-and-societal-goals.html",
     summary: "<p>Furthermore, as we have seen for genetic evolution, what&#8217;s adaptive in the evolutionary sense of the word isn&#8217;t necessarily good or right in the normative sense. </p>",
-		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "Furthermore as we have seen for genetic evolution what s adaptive in the evolutionary sense of the word isn t necessarily good or right in the normative sense Genetic evolution often results in adaptations that are good for me but not for you or us but not them or good over the short term but not the long term The behaviors that we adopt by open ended learning have all the same limitations If anything behavioral adaptations are even more shortsighted than genetic evolution because the immediate costs and benefits of our behaviors are more perceptible to us than the long term consequences You might want to lose weight but your mind is causing you to dip your hand into the next bag of Doritos You might want peace on earth but your mind is causing you to do what it takes to beat out your competitors for a promotion at the office A lot of cleverness will be required to align our learning abilities to our long term personal and societal goals David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Our species does represent a new evolutionary process",
 		date: "2019",
     url: "quotes/our-species-does-represent-a-new-evolutionary-process.html",
     summary: "<p>As we are increasingly coming to realize, our species does represent a new evolutionary process — cultural evolution — that far surpasses cultural traditions in other species. </p>",
-		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
+		content: "As we are increasingly coming to realize our species does represent a new evolutionary process cultural evolution that far surpasses cultural traditions in other species This capacity for cultural evolution enabled our ancestors to spread over the globe inhabiting all climatic zones and dozens of ecological niches Then small scale societies tiny grains of thought coalesced into larger and larger societies over the past ten thousand years Human activities now rival other living processes and non living physical processes in shaping the earth and atmosphere David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Religions are great bushy trees",
 		date: "2019",
     url: "quotes/religions-are-great-bushy-trees.html",
     summary: "<p>In short, religions are great bushy trees that evolved, and continue to evolve, by cultural evolution. </p>",
-		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson Clinical Psychologist at the University of Virginia This View of Life: Completing the Darwinian Revolution "
+		content: "In short religions are great bushy trees that evolved and continue to evolve by cultural evolution David Sloan Wilson American evolutionary biologist This View of Life: Completing the Darwinian Revolution "
 	},
 	{
 		title: "Small groups are a fundamental unit of human social organization",
@@ -1054,7 +1054,7 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/what-would-a-new-social-compact-look-like.html",
     summary: "<p>What would a new social compact look like? Since our crisis is political, the solutions must stretch far beyond economics. My own views do not always fit into twentieth-century pigeonholes. </p>",
-		content: "What would a new social compact look like Since our crisis is political the solutions must stretch far beyond economics My own views do not always fit into twentieth century pigeonholes But I believe that protecting society s weakest from arbitrary misfortune is the ultimate test of our civilisational worth It seems blindingly obvious that universal healthcare ought to be a basic shield against the vicissitudes of an increasingly volatile labour market Humane immigration laws should be enforced and the link between public benefits and citizenship restored Ours is an age of lawyers and accountants Micro regulation of the workplace ought to be replaced with broad guideines free speech in whatever form it takes must be upheld on campuses and in the media the tax system should be ruthlessly simplified governments must tax bad things such as carbon rather than good things like jobs companies should be taxed where they conduct their business Governments must launch Marshall Plans to retrain their middle classes The nature of representative democracy should be re imagined Above all money s stranglehold on the legistlative process has to be broken Edward Luce Edward Luce The Retreat of Western Liberalism "
+		content: "What would a new social compact look like Since our crisis is political the solutions must stretch far beyond economics My own views do not always fit into twentieth century pigeonholes But I believe that protecting society s weakest from arbitrary misfortune is the ultimate test of our civilisational worth It seems blindingly obvious that universal healthcare ought to be a basic shield against the vicissitudes of an increasingly volatile labour market Humane immigration laws should be enforced and the link between public benefits and citizenship restored Ours is an age of lawyers and accountants Micro regulation of the workplace ought to be replaced with broad guidelines free speech in whatever form it takes must be upheld on campuses and in the media the tax system should be ruthlessly simplified governments must tax bad things such as carbon rather than good things like jobs companies should be taxed where they conduct their business Governments must launch Marshall Plans to retrain their middle classes The nature of representative democracy should be re imagined Above all money s stranglehold on the legistlative process has to be broken Edward Luce Edward Luce The Retreat of Western Liberalism "
 	},
 	{
 		title: "Writing off half of society as deplorable",
@@ -1442,11 +1442,11 @@ let searchQuotes = [
 		content: "For nothing is fixed forever and forever it is not fixed the earth is always shifting the light is always changing the sea does not cease to grind down rock Generations do not cease to be born and we are responsible to them because we are the only witnesses they have The sea rises the light fails lovers cling to each other and children cling to us The moment we cease to hold each other the moment we break faith with one another the sea engulfs us and the light goes out James Baldwin American novelist, playwright, essayist, poet and activist Nothing Personal "
 	},
 	{
-		title: "Frivolous and fanciful distrinctions",
+		title: "Frivolous and fanciful distinctions",
 		date: "1787",
-    url: "quotes/frivolous-and-fanciful-distrinctions.html",
-    summary: "<p>So strong is this propensity of mankind to fall into mutual animosities, that where no substantial occasion presents itself, the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most&#8230; </p>",
-		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distrinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison American statesman, diplomat, expansionist, philosopher, and Founding Father who served as the fourth president of the United States The Federalist no. 10 "
+    url: "quotes/frivolous-and-fanciful-distinctions.html",
+    summary: "<p>So strong is this propensity of mankind to fall into mutual animosities, that where no substantial occasion presents itself, the most frivolous and fanciful distinctions have been sufficient to kindle their unfriendly passions and excite their most&#8230; </p>",
+		content: "So strong is this propensity of mankind to fall into mutual animosities that where no substantial occasion presents itself the most frivolous and fanciful distinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts James Madison American statesman, diplomat, expansionist, philosopher, and Founding Father who served as the fourth president of the United States The Federalist no. 10 "
 	},
 	{
 		title: "Invest in your employees",
@@ -1642,21 +1642,21 @@ let searchQuotes = [
 		date: "1966",
     url: "quotes/more-popular-than-jesus.html",
     summary: "<p>Christianity will go. It will vanish and shrink. I needn&#8217;t argue about that; I&#8217;m right and I&#8217;ll be proved right. We&#8217;re more popular than Jesus now; I don&#8217;t know which will go first—rock &#8216;n&#8217; roll or Christianity. </p>",
-		content: "Christianity will go It will vanish and shrink I needn t argue about that I m right and I ll be proved right We re more popular than Jesus now I don t know which will go first rock n roll or Christianity Jesus was all right but his disciples were thick and ordinary It s them twisting it that ruins it for me John Lennon  London Evening Standard "
+		content: "Christianity will go It will vanish and shrink I needn t argue about that I m right and I ll be proved right We re more popular than Jesus now I don t know which will go first rock n roll or Christianity Jesus was all right but his disciples were thick and ordinary It s them twisting it that ruins it for me John Lennon English singer, songwriter, musician and peace activist London Evening Standard "
 	},
 	{
 		title: "If you'll just rattle your jewelry",
 		date: "4 Nov 1963",
     url: "quotes/if-youll-just-rattle-your-jewelry.html",
     summary: "<p>For our last number, I&#8217;d like to ask your help. Would the people in the cheaper seats clap your hands. </p>",
-		content: "For our last number I d like to ask your help Would the people in the cheaper seats clap your hands And the rest of you if you ll just rattle your jewelry John Lennon  Royal Variety Performance in London "
+		content: "For our last number I d like to ask your help Would the people in the cheaper seats clap your hands And the rest of you if you ll just rattle your jewelry John Lennon English singer, songwriter, musician and peace activist Royal Variety Performance in London "
 	},
 	{
 		title: "Equals",
 		date: "2000",
     url: "quotes/equals.html",
     summary: "<p>Was it better to have a guy who was better than the people I had in? To make the group stronger, or to let me be stronger? Instead of going for an individual thing we went for the strongest format — equals&#8230;. </p>",
-		content: "Was it better to have a guy who was better than the people I had in To make the group stronger or to let me be stronger Instead of going for an individual thing we went for the strongest format equals John Lennon  The Beatles Anthology "
+		content: "Was it better to have a guy who was better than the people I had in To make the group stronger or to let me be stronger Instead of going for an individual thing we went for the strongest format equals John Lennon English singer, songwriter, musician and peace activist The Beatles Anthology "
 	},
 	{
 		title: "Technological Unemployment",
@@ -1971,7 +1971,7 @@ let searchQuotes = [
 		date: "1968",
     url: "quotes/why-people-sing.html",
     summary: "<p>Someone once asked me why people sing. I answered they sing for many of the same reasons birds sing. They sing for a mate, to claim their territory, or simply to give voice to the delight of being alive in the midst of a beautiful day. </p>",
-		content: "Someone once asked me why people sing I answered they sing for many of the same reasons birds sing They sing for a mate to claim their territory or simply to give voice to the delight of being alive in the midst of a beautiful day Perhaps more than birds do humans hold a grudge They sing to complain of how grievously they have been wronged and how to avoid it in the future They sing to help themselves execute a job of work They sing so the subsequent generations won t forget what the current generation endured or dreamed or delighted in Linda Ronstadt  in a friend's East Village apartment, NYC "
+		content: "Someone once asked me why people sing I answered they sing for many of the same reasons birds sing They sing for a mate to claim their territory or simply to give voice to the delight of being alive in the midst of a beautiful day Perhaps more than birds do humans hold a grudge They sing to complain of how grievously they have been wronged and how to avoid it in the future They sing to help themselves execute a job of work They sing so the subsequent generations won t forget what the current generation endured or dreamed or delighted in Linda Ronstadt American singer in a friend's East Village apartment, NYC "
 	},
 	{
 		title: "When you can measure what you are speaking about",
@@ -2021,6 +2021,13 @@ let searchQuotes = [
     url: "quotes/a-dark-procession.html",
     summary: "<p>Mercer did not think at all in the accepted sense of the word. Ideas occurred to him and engendered other ideas. But the process which linked any two of them was a dark procession taking place in some subconscious part of the brain. </p>",
 		content: "Mercer did not think at all in the accepted sense of the word Ideas occurred to him and engendered other ideas But the process which linked any two of them was a dark procession taking place in some subconscious part of the brain Margery Allingham English mystery novelist Dancers in Mourning "
+	},
+	{
+		title: "Muddled thinking and self-deception",
+		date: "1938",
+    url: "quotes/muddled-thinking-and-self-deception.html",
+    summary: "<p>Mr. Campion was shocked. There are some people to whom muddled thinking and self-deception are the two most unforgivable crimes in the world. </p>",
+		content: "Mr Campion was shocked There are some people to whom muddled thinking and self deception are the two most unforgivable crimes in the world Margery Allingham English mystery novelist The Fashion in Shrouds "
 	},
 	{
 		title: "Merely Thoroughly Outrageous",
@@ -2797,7 +2804,7 @@ let searchQuotes = [
 		date: "2017",
     url: "quotes/generosity-is-the-robust-strategy.html",
     summary: "<p>It is deeply unfortunate how difficult it is for humans to practice foresight. </p>",
-		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American technologist and publisher WTF: What's the Future and Why It's Up To Us "
+		content: "It is deeply unfortunate how difficult it is for humans to practice foresight In his wise and insightful book The Wealth of Humans senior editor for the Economist Ryan Avent traces the lessons that we could and should take from the centuries of economic and political struggle that led from the innovations of the industrial revolution to the successful economies of the second half of the twentieth century Prosperity came when the fruits of productivity were widely shared enmity political turmoil and even outright warfare were the harvest of rampant inequality It is obvious that generosity is the robust strategy Tim O'Reilly American leader of organized labor and civil rights activist WTF: What's the Future and Why It's Up To Us "
 	},
 	{
 		title: "Governance is essential",
@@ -2937,7 +2944,14 @@ let searchQuotes = [
 		date: "06 Aug 2020",
     url: "quotes/the-american-cult-of-the-individual.html",
     summary: "<p>The American cult of the individual denies not just community but the very idea of society. No one owes anything to anyone. All must be prepared to fight for everything: education, shelter, food, medical care. </p>",
-		content: "The American cult of the individual denies not just community but the very idea of society No one owes anything to anyone All must be prepared to fight for everything education shelter food medical care Wade Davis  Rolling Stone "
+		content: "The American cult of the individual denies not just community but the very idea of society No one owes anything to anyone All must be prepared to fight for everything education shelter food medical care Wade Davis Canadian cultural anthropologist, ethnobotanist, author, and photographer The Unraveling of America "
+	},
+	{
+		title: "Change is the one constant when it comes to culture",
+		date: "6 Aug 2020",
+    url: "quotes/change-is-the-one-constant-when-it-comes-to-culture.html",
+    summary: "<p>Change, after all, is the one constant when it comes to culture. All peoples in all places at all times are always dancing with new possibilities for life. </p>",
+		content: "Change after all is the one constant when it comes to culture All peoples in all places at all times are always dancing with new possibilities for life Wade Davis Canadian cultural anthropologist, ethnobotanist, author, and photographer The Unraveling of America "
 	},
 	{
 		title: "We make money to make more movies",
