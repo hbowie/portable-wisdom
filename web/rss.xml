@@ -7,10 +7,19 @@
 	<language>en-us</language>
 	<managingEditor>hbowie@portablewisdom.org (Herb Bowie)</managingEditor>
 	<webMaster>hbowie@portablewisdom.org (Herb Bowie)</webMaster>
-	<lastBuildDate>Mon, 17 Oct 2022 00:00 PDT</lastBuildDate>
-	<pubDate>Mon, 17 Oct 2022 00:00 PDT</pubDate>
+	<lastBuildDate>Tue, 18 Oct 2022 00:00 PDT</lastBuildDate>
+	<pubDate>Tue, 18 Oct 2022 00:00 PDT</pubDate>
 	<atom:link href="https://portablewisdom.org/rss.xml" rel="self" type="application/rss+xml" />
 	<ttl>1440</ttl>
+	<item>
+		<title>Hierarchy of Needs</title>
+		<link>https://portablewisdom.org/models/hierarchy-of-needs.html</link>
+		<guid isPermaLink="true">https://portablewisdom.org/models/hierarchy-of-needs.html</guid>
+		<pubDate>Mon, 17 Oct 2022 00:00 PDT</pubDate>
+		<description>
+			&lt;p&gt;Whether we are considering individuals or groups, we tend to have some sorts of motivations that need to be satisfied before we turn our attention to others. &lt;/p&gt;
+		</description>
+	</item>
 	<item>
 		<title>Muddled thinking and self-deception</title>
 		<link>https://portablewisdom.org/quotes/muddled-thinking-and-self-deception.html</link>
@@ -208,17 +217,6 @@
 			&lt;p&gt;I originally came across this model in a book by Ken Wilber, titled &lt;em&gt;A Brief History of Everything.&lt;/em&gt; &lt;/p&gt;
 
 &lt;p&gt;It&amp;#8217;s become a foundational piece of Wilber&amp;#8217;s Integral Philosophy, something he terms &lt;em&gt;AQAL&lt;/em&gt;, for &lt;em&gt;All Quadrants, All Levels&lt;/em&gt;. &lt;/p&gt;
-		</description>
-	</item>
-	<item>
-		<title>The Rotarian Four-Way Test</title>
-		<link>https://portablewisdom.org/lists/the-rotarian-four-way-test.html</link>
-		<guid isPermaLink="true">https://portablewisdom.org/lists/the-rotarian-four-way-test.html</guid>
-		<pubDate>Tue, 04 Oct 2022 00:00 PDT</pubDate>
-		<description>
-			&lt;p&gt;The Four-Way Test is a nonpartisan and nonsectarian ethical guide for Rotarians to use for their personal and professional relationships. &lt;/p&gt;
-
-&lt;p&gt;The test is widely promoted as one of the guiding principles of Rotary International. &lt;/p&gt;
 		</description>
 	</item>
 </channel>

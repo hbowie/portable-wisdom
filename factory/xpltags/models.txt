@@ -1,4 +1,5 @@
 Tag	Tag File Name	Seq	Folder	Priority	Title	Author	Body
+	.html	1	models		Hierarchy of Needs		
 decision-making	decision-making.html	1	models		The Cynefin Framework		
 integral	integral.html	1	models		Developmental Levels		
 integral	integral.html	1	models		The Four Quadrants		

@@ -61,11 +61,11 @@
 		<p class="tags-align">=$tags&gtopics/;tag-link$=</p>
 	
 <?if "=$imagename$=" ?>
+<?copyfile "../../content/models/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
 		<p>
-			<img class="img-fluid rounded" src="../images/=$imagename&f$=">
+			=$image-slug$=
 		</p>
 
-<?copyfile "../../content/models/files/=$imagename$=" "../../web/images/=$imagename&f$=" ?>
 <?endif?>
 
 		=$body&w1o$=
